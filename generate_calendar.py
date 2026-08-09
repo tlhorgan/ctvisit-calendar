@@ -12,7 +12,7 @@ from icalendar import Calendar, Event
 from playwright.sync_api import sync_playwright
 
 BASE = "https://ctvisit.com"
-CALENDAR_URL = f"{BASE}/events"
+CALENDAR_URL = f"{BASE}/upcoming-events"
 OUTPUT = Path("ctvisit.ics")
 
 def clean(text: str) -> str:
@@ -27,6 +27,9 @@ def discover_event_urls(page) -> list[str]:
     stable_rounds = 0
 
     for _ in range(60):
+        # CTvisit's /events page is primarily a JS search shell.  The
+        # /upcoming-events page server-renders many real event cards, so use
+        # those links as the discovery source.
         hrefs = page.locator('a[href*="/events/"]').evaluate_all(
             "(els) => els.map(e => e.href)"
         )
@@ -80,7 +83,7 @@ def parse_occurrence(line: str):
     """
     line = clean(line)
     line = re.sub(r"\s*Timezone:.*$", "", line, flags=re.I)
-    m = re.match(
+    m = re.search(
         r"([A-Za-z]{3,9}\s+\d{1,2},\s+\d{4}),\s*"
         r"(\d{1,2}(?::\d{2})?\s*(?:am|pm))"
         r"(?:\s+to\s+(\d{1,2}(?::\d{2})?\s*(?:am|pm)))?",
@@ -126,19 +129,12 @@ def parse_occurrences(soup: BeautifulSoup) -> list[tuple[datetime, datetime]]:
             if parsed:
                 occurrences.append(parsed)
 
-    # Fallback: search the full page text for occurrence-shaped strings.
+    # Robust fallback: inspect every visible text line for a date/time
+    # occurrence. This handles CTvisit pages where the heading and list are
+    # wrapped differently.
     if not occurrences:
-        full = clean(soup.get_text(" ", strip=True))
-        pattern = re.compile(
-            r"([A-Za-z]{3,9}\s+\d{1,2},\s+\d{4},\s*"
-            r"\d{1,2}(?::\d{2})?\s*(?:am|pm)"
-            r"(?:\s+to\s+\d{1,2}(?::\d{2})?\s*(?:am|pm))?"
-            r"(?:\s+Timezone:[^|]+?)?)"
-            r"(?=\s+(?:Admission|Location|Contact|Times|[A-Za-z]{3,9}\s+\d{1,2},)|$)",
-            re.I,
-        )
-        for match in pattern.findall(full):
-            parsed = parse_occurrence(match)
+        for line in lines:
+            parsed = parse_occurrence(line)
             if parsed:
                 occurrences.append(parsed)
 
