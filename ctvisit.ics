@@ -3,4 +3,992 @@ VERSION:2.0
 PRODID:-//CTvisit Events Calendar//EN
 X-WR-CALNAME:Connecticut Events
 X-WR-TIMEZONE:America/New_York
+BEGIN:VEVENT
+SUMMARY:Downtown Mystic Ghost Tours
+DTSTART;VALUE=DATE:20260102
+DTEND;VALUE=DATE:20261201
+DTSTAMP:20260809T171859Z
+UID:84b25dc48e9bfb13f9ce1fcdc754@ctvisit-calendar
+DESCRIPTION:Our Original Ghost Walk takes travelers through the historic d
+ owntown Mystic landscape crossing the bascule bridge between both sides of
+  the Mystic River\, guests will become immersed in the dark\, sordid and s
+ upernatural history of New England’s famous seafaring village. From 17th
+  century strife of colonial life amidst the Pequot Wars and the King Phill
+ ip’s war to mysterious turn of the century murders\, Mystic’s history 
+ was founded in darkness. As the centuries grew\, lost seafarers\, creepy c
+ ryptids\, and scandalous happenings took place in our quaint seaside commu
+ nity.\n\nSource: https://ctvisit.com/events/downtown-mystic-ghost-tours-1
+LOCATION:Liberty Pole Square\, East Main Street\, Holmes Street\, Mystic C
+ T\, 06355
+URL:https://ctvisit.com/events/downtown-mystic-ghost-tours-1
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Exhibit | Illustrating America: Columbia Magazine Covers
+DTSTART;VALUE=DATE:20260228
+DTEND;VALUE=DATE:20260907
+DTSTAMP:20260809T171859Z
+UID:493d5b0601c9344ed9cafc77d98d@ctvisit-calendar
+DESCRIPTION:Exhibition open Wednesday through Sunday from 10am to 4pm with
+  free parking and admission\, EXCEPT Good Friday (Friday\, April 3)\; Holy
+  Saturday (Saturday\, April 4)\; Easter Sunday (Sunday\, April 5)\; Indepe
+ ndence Day (Friday\, July 3).\n\nSource: https://ctvisit.com/events/exhibi
+ t-illustrating-america-columbia-magazine-covers
+LOCATION:Blessed Michael McGivney Pilgrimage Center\, 1 State Street\, New
+  Haven CT\, 06511
+URL:https://ctvisit.com/events/exhibit-illustrating-america-columbia-magaz
+ ine-covers
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SOUL LINE DANCING
+DTSTART;VALUE=DATE:20260414
+DTEND;VALUE=DATE:20261007
+DTSTAMP:20260809T171859Z
+UID:5c7a0630f195ccf2c1c62c591aec@ctvisit-calendar
+DESCRIPTION:Come down and boogie @TheLab Tuesdays from 6-8pm\n\nSource: ht
+ tps://ctvisit.com/events/soul-line-dancing
+LOCATION:Norwalk Performing Arts Lab\, 300 Grumman Ave\, Norwalk CT\, 0685
+ 1
+URL:https://ctvisit.com/events/soul-line-dancing
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:About Face: 250 Years of American Portraits
+DTSTART;VALUE=DATE:20260426
+DTEND;VALUE=DATE:20260817
+DTSTAMP:20260809T171859Z
+UID:1369cf7642ea788bb2d3ba0118a1@ctvisit-calendar
+DESCRIPTION:In celebration of the United States’ semiquincentennial\, th
+ e Mattatuck Museum presents About Face: 250 Years of American Portraits\, 
+ on view April 26 through August 16\, 2026. The exhibition explores America
+ n history through the images and experiences of Americans spanning the pas
+ t 250 years.\n\nSource: https://ctvisit.com/events/about-face-250-years-am
+ erican-portraits
+LOCATION:Mattatuck Museum\, 144 West Main Street\, Waterbury CT\, 06702
+URL:https://ctvisit.com/events/about-face-250-years-american-portraits
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Real Revolution Escape Room
+DTSTART;VALUE=DATE:20260501
+DTEND;VALUE=DATE:20270821
+DTSTAMP:20260809T171859Z
+UID:b51ce840f6bfb3573fb8abe6d44a@ctvisit-calendar
+DESCRIPTION:Real Revolution Escape Room May 1\, 2026 @ 11:30 am – August
+  20\, 2026 @ 8:00 pm\n\nSource: https://ctvisit.com/events/real-revolution
+ -escape-room
+LOCATION:Westport Museum For History And Culture\, 25 Avery Place\, Westpo
+ rt CT 06880\, Westport CT\, 06880
+URL:https://ctvisit.com/events/real-revolution-escape-room
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Dudley Farm Farmers Market & More
+DTSTART;VALUE=DATE:20260509
+DTEND;VALUE=DATE:20261101
+DTSTAMP:20260809T171859Z
+UID:e342764ac12210955a536489f043@ctvisit-calendar
+DESCRIPTION:Dudley Farm continues the old-time practice of selling produce
+  at a roadside stand and is one of the oldest farmers markets in Connectic
+ ut. Our Saturday morning market brings the community together on the site 
+ of a living museum. Come purchase your produce\, home-baked goods and hand
+ crafts\; bring your children to visit the livestock and romp on the hillsi
+ de\; explore new exhibits in the Farmhouse and Dawnland museums. Throughou
+ t the season we’ll have special workshops\, demonstrations and music. Co
+ me wander our grounds with a hot cup of coffee and fresh muffin.\n\nSource
+ : https://ctvisit.com/events/dudley-farm-farmers-market-more
+LOCATION:Dudley Farm\, 2351 Durham Road\, Guilford CT\, 06437
+URL:https://ctvisit.com/events/dudley-farm-farmers-market-more
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Norwich Stories of the American Revolution
+DTSTART;VALUE=DATE:20260509
+DTEND;VALUE=DATE:20270101
+DTSTAMP:20260809T171859Z
+UID:c5d13aef0c36e1820a30a1a8eed9@ctvisit-calendar
+DESCRIPTION:Norwich\, Connecticut was a center of Revolutionary activity i
+ n Eastern Connecticut. From bands of Sons of Liberty to dedicated soldiers
+  of all backgrounds\, the city produced scores of men and women who served
+  in all capacities. From humble militiamen to a Signer of the Declaration 
+ of Independence\, come and learn the lesser-known stories of these valiant
+  Patriots as well as the story of America’s most infamous traitor\, Bene
+ dict Arnold.\n\nSource: https://ctvisit.com/events/norwich-stories-america
+ n-revolution
+LOCATION:Slater Memorial Museum\, 108 Crescent Street\, Norwich CT\, 06360
+URL:https://ctvisit.com/events/norwich-stories-american-revolution
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:2026 Norwalk Islands Sunset Cruise
+DTSTART;VALUE=DATE:20260520
+DTEND;VALUE=DATE:20260906
+DTSTAMP:20260809T171859Z
+UID:468f36d865016676f581cefe815e@ctvisit-calendar
+DESCRIPTION:Norwalk CT Harbor Sunset Lighthouse Cruise 2026 Sunset Cruise 
+ Norwalk Seaport Association Advanced Reservations Strongly Recommended Cap
+ acity Limited to 49 Passengers\, Every passenger needs a ticket on board r
+ egardless of age as we have to abide by our passenger count per the US Coa
+ st Guard. Cruises Do Sell Out! Round trip time is approximately 2 hours.\n
+ \nSource: https://ctvisit.com/events/norwalk-islands-sunset-cruise
+LOCATION:Norwalk Seaport Dock\, 90 Water Street\, Norwalk CT\, 06854
+URL:https://ctvisit.com/events/norwalk-islands-sunset-cruise
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Hartford.com Salsa Socials
+DTSTART;VALUE=DATE:20260522
+DTEND;VALUE=DATE:20260919
+DTSTAMP:20260809T171859Z
+UID:0667197999f55552dfddc1f1f259@ctvisit-calendar
+DESCRIPTION:The Hartford.com Salsa Socials are one of the most beloved and
+  anticipated annual summer events held in downtown Hartford. Join the fun 
+ as Pratt Street comes alive with the sites and sounds of Salsa music. Unli
+ ke a concert or performance event - everyone who comes to a Hartford.com S
+ alsa Social becomes a part of the experience. Dancers\, kids\, grandparent
+ s\, professional instructors\, and the audience all experience the energy 
+ and celebration of cultural pride. This event is free and open to the publ
+ ic.\n\nSource: https://ctvisit.com/events/hartfordcom-salsa-socials
+LOCATION:Pratt Street Historic District\, Pratt Street\, Hartford CT\, 061
+ 03
+URL:https://ctvisit.com/events/hartfordcom-salsa-socials
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:“Uncovering New London” History Tours in Celebration of Americ
+ a 250
+DTSTART;VALUE=DATE:20260522
+DTEND;VALUE=DATE:20261010
+DTSTAMP:20260809T171859Z
+UID:7b05ac2e6c98cc2886a522babef2@ctvisit-calendar
+DESCRIPTION:In celebration of America’s 250th anniversary\, Uncovering N
+ ew London Tours invites residents and visitors to explore the city’s ric
+ h history through engaging guided walking and bus tours. Discover New Lond
+ on’s role in the American Revolution\, its whaling heritage\, Black hist
+ ory\, Gilded Age influence\, and hidden gems\, brought to life by knowledg
+ eable local docents. Tours are available for groups of all sizes\, and can
+  be customized to fit any schedule\, with optional stops and dining experi
+ ences. A unique and immersive way to experience the stories that shaped th
+ e Whaling City.\n\nSource: https://ctvisit.com/events/uncovering-new-londo
+ n-history-tours-celebration-america-250
+LOCATION:Downtown New London\, 27 Water St\, New London CT\, 06320
+URL:https://ctvisit.com/events/uncovering-new-london-history-tours-celebra
+ tion-america-250
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:All-Inclusive Vineyard Tours from Mystic\, Connecticut
+DTSTART;VALUE=DATE:20260528
+DTEND;VALUE=DATE:20270101
+DTSTAMP:20260809T171859Z
+UID:e790de70d34675311a2dfd098889@ctvisit-calendar
+DESCRIPTION:Visit three beautiful southeastern Connecticut vineyards in on
+ e unforgettable day. If you're visiting Mystic\, Connecticut and want to e
+ xperience local wineries without worrying about driving\, a guided wine to
+ ur from Mystic is the perfect option.\n\nSource: https://ctvisit.com/event
+ s/all-inclusive-vineyard-tours-mystic-connecticut
+LOCATION:Sift Bake Shop\, Pickup outside of Sift Bake Shop\, 5 Water Stree
+ t\, Mystic CT\, 06355
+URL:https://ctvisit.com/events/all-inclusive-vineyard-tours-mystic-connect
+ icut
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Exhibit | American Saints & Blesseds
+DTSTART;VALUE=DATE:20260530
+DTEND;VALUE=DATE:20260907
+DTSTAMP:20260809T171859Z
+UID:00f807d262efd6ca52faee92683a@ctvisit-calendar
+DESCRIPTION:Exhibition open Wednesday through Sunday from 10am to 4pm with
+  free parking and admission EXCEPT June 6\, 2026 and Independence Day (Sat
+ urday\, July 4\, 2026). As of America’s 250th anniversary\, 14 Catholics
+  have been canonized and 7 beatified who lived or ministered in the United
+  States or its territories. By the end of 2026\, Archbishop Fulton Sheen a
+ nd the Georgia Martyrs will join the ranks of the beatified.\n\nSource: ht
+ tps://ctvisit.com/events/exhibit-american-saints-blesseds
+LOCATION:Blessed Michael McGivney Pilgrimage Center\, 1 State Street\, New
+  Haven CT\, 06511
+URL:https://ctvisit.com/events/exhibit-american-saints-blesseds
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Your Plate Squared: Celebrating America’s 250th
+DTSTART;VALUE=DATE:20260611
+DTEND;VALUE=DATE:20260824
+DTSTAMP:20260809T171859Z
+UID:7dec4c536f506019094243f48a07@ctvisit-calendar
+DESCRIPTION:Your Plate Squared: Celebrating America’s 250th is a communi
+ ty exhibition organized in conjunction with the semiquincentennial of Amer
+ ica’s founding. Gathering around food is a part of many holidays in the 
+ United States\, including Memorial Day\, Juneteenth\, Independence Day\, a
+ nd Thanksgiving . Drawing on these traditions\, Your Plate Squared explore
+ s the role that food plays in shaping our individual and national identiti
+ es.\n\nSource: https://ctvisit.com/events/your-plate-squared-celebrating-a
+ mericas-250th
+LOCATION:The Bruce Museum\, Vicki Netter Fitzgerald Works on Paper Gallery
+ \, 1 Museum Drive\, Greenwich CT\, 06830
+URL:https://ctvisit.com/events/your-plate-squared-celebrating-americas-250
+ th
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Stamford Downtown Farmers Market
+DTSTART;VALUE=DATE:20260613
+DTEND;VALUE=DATE:20261011
+DTSTAMP:20260809T171859Z
+UID:1c26eb77efa6e20b883212b2584e@ctvisit-calendar
+DESCRIPTION:Saturdays\, 9am-1pmVeterans Memorial Park (130 Atlantic Street
+ ) Shop our weekly farmers market offering a wide variety of locally grown 
+ fruits\, vegetables and flowers. You’ll also find breads\, jams\, baked 
+ goods\, cheeses\, oils and more! Straight from the farm to your home! We a
+ ccept WIC & SNAP Customer Parking: There are several options for nearby pa
+ rking:-Landmark Garage via Atlantic Street entrance\n\nSource: https://ctv
+ isit.com/events/stamford-downtown-farmers-market-1
+LOCATION:Veterans Memorial Park\, 130 Atlantic Street\, Stamford CT\, 0690
+ 1
+URL:https://ctvisit.com/events/stamford-downtown-farmers-market-1
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Summer Glow Nights
+DTSTART;VALUE=DATE:20260616
+DTEND;VALUE=DATE:20260831
+DTSTAMP:20260809T171859Z
+UID:8b0f2fe3100598cee15d0a59a548@ctvisit-calendar
+DESCRIPTION:Summer Glow Makes You Feel Fine – June to AugustNew Days Add
+ ed to Popular Glow in the Park Now you can Glow with us Tuesdays\, Thursda
+ ys and Fridays in July and August. Listen to music as you climb in the tre
+ es on a warm summer night\, we even give you cool glow bracelets and neckl
+ aces and wearables to create your own glow look. Climb after dark when the
+  sun goes down and the lights come up. Feel the summer breeze shifting thr
+ ough the treetops as you take on aerial challenges you’ll love! Jam to s
+ ummer tunes and experience the magic of TreeTrails at night.\n\nSource: ht
+ tps://ctvisit.com/events/summer-glow-nights
+LOCATION:TreeTrails Adventures Mystic\, 715 NOANK LEDYARD RD\, MYSTIC CT\,
+  06355-1335
+URL:https://ctvisit.com/events/summer-glow-nights
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Congratulations Class of '26!
+DTSTART;VALUE=DATE:20260617
+DTEND;VALUE=DATE:20260831
+DTSTAMP:20260809T171859Z
+UID:7b0ff238186a95fb1616e9d6ef83@ctvisit-calendar
+DESCRIPTION:Congratulations Class of '26 – June 17 to August 30Celebrate
+  graduation with $25 off ticket!\n\nSource: https://ctvisit.com/events/con
+ gratulations-class-26
+LOCATION:TreeTrails Adventures Mystic\, 715 NOANK LEDYARD RD\, MYSTIC CT\,
+  06355-1335
+URL:https://ctvisit.com/events/congratulations-class-26
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sunday Summer Concerts
+DTSTART;VALUE=DATE:20260621
+DTEND;VALUE=DATE:20260824
+DTSTAMP:20260809T171859Z
+UID:c1a6a32f1e6b38ccf586b0328021@ctvisit-calendar
+DESCRIPTION:Dust off your lawn chairs and grab your favorite picnic blanke
+ t—the 2026 Sunday Concert Series is returning to the Trumbull Town Hall 
+ Gazebo! We have an incredible lineup\, featuring a variety of talented mus
+ icians taking the stage. Whether you’re looking for a relaxing afternoon
+  with the family or a spot to dance with friends\, the green is the place 
+ to be all summer long. Every Sunday at 4PM beginning June 21st through Aug
+ ust 23rd. Bring a lawn chair or a blanket and tag your concert buddies to 
+ join you! Free entry\, all are welcome!\n\nSource: https://ctvisit.com/eve
+ nts/sunday-summer-concerts
+LOCATION:Trumbull Town Hall Gazebo\, 5866 Main Street\, Trumbull CT\, 0661
+ 1-2466
+URL:https://ctvisit.com/events/sunday-summer-concerts
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Scenic Trolley Rides & Museum Open
+DTSTART;VALUE=DATE:20260624
+DTEND;VALUE=DATE:20260831
+DTSTAMP:20260809T171859Z
+UID:1bcb48b2e1edc14b67be153d05a9@ctvisit-calendar
+DESCRIPTION:America 250 – Innovation & Ingenuity In honor of the nation
+ ’s 250th anniversary\, the museum is highlighting the theme “Innovatio
+ n & Ingenuity.” Electric railways transformed American cities and connec
+ ted communities in new and remarkable ways. Throughout the season\, watch 
+ our website for special programming and select days offering free or reduc
+ ed admission. Explore the Charm of Yesteryear at the Shore Line Trolley Mu
+ seum\n\nSource: https://ctvisit.com/events/scenic-trolley-rides-museum-ope
+ n-1
+LOCATION:The Shore Line Trolley Museum\, 17 River St\, East Haven CT\, 065
+ 12
+URL:https://ctvisit.com/events/scenic-trolley-rides-museum-open-1
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:"On Point"
+DTSTART;VALUE=DATE:20260625
+DTEND;VALUE=DATE:20260816
+DTSTAMP:20260809T171859Z
+UID:0635776c03641a613fa4ffb0665a@ctvisit-calendar
+DESCRIPTION:Heather Gaudio Fine Art is pleased to present On Point\, a fou
+ r-person exhibition featuring new works by Sarah Amos\, Beth Dary\, Kathle
+ en Kucka\, and Susan Schwalb. The show will open with a public reception o
+ n June 25th\, 5-7 pm\, and runs through August 15th.\n\nSource: https://ct
+ visit.com/events/point
+LOCATION:Heather Gaudio Fine Art\, 382 Greenwich Avenue\, Greenwich CT\, 0
+ 6830
+URL:https://ctvisit.com/events/point
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Skateport Saturdays in Bridgeport
+DTSTART;VALUE=DATE:20260627
+DTEND;VALUE=DATE:20261115
+DTSTAMP:20260809T171859Z
+UID:8c5517e7dce8735ef14fbed716f1@ctvisit-calendar
+DESCRIPTION:Season 5 of Skateport Saturdays at Post Office Square is Here!
+ !!! Join us every other Saturday beginning June 27th through November 14th
+ !\n\nSource: https://ctvisit.com/events/skateport-saturdays-bridgeport
+LOCATION:Post Office Square\, 1160 Main Street\, Bridgeport CT\, 06604
+URL:https://ctvisit.com/events/skateport-saturdays-bridgeport
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:All-American Summer Celebration
+DTSTART;VALUE=DATE:20260703
+DTEND;VALUE=DATE:20260823
+DTSTAMP:20260809T171859Z
+UID:6e3de23b172893ef958d418b98f0@ctvisit-calendar
+DESCRIPTION:Celebrate a summer like no other as we honor America’s 250th
+  Birthday during our 180th year! From classic Americana entertainment to c
+ an’t-miss nighttime spectaculars\, this limited-time event is packed wit
+ h festive fun for the whole family. This is more than just an event—it
+ ’s a once-in-a-generation celebration blending historic milestones\, sum
+ mer traditions\, and unforgettable park experiences.\n\nSource: https://ct
+ visit.com/events/all-american-summer-celebration
+LOCATION:Lake Compounce\, 185 Enterprise Drive\, Bristol CT\, 06010
+URL:https://ctvisit.com/events/all-american-summer-celebration
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Connecticut's Revolution
+DTSTART;VALUE=DATE:20260704
+DTEND;VALUE=DATE:20270710
+DTSTAMP:20260809T171859Z
+UID:3c870322b2c192cd3affdf7d2330@ctvisit-calendar
+DESCRIPTION:The Museum of Connecticut History at the Connecticut State Lib
+ rary announces a new exhibit commemorating the nation’s 250th anniversar
+ y.\n\nSource: https://ctvisit.com/events/connecticuts-revolution
+LOCATION:Museum of Connecticut History at the Connecticut State Library\, 
+ 231 Capitol Avenue\, Hartford CT\, 06106
+URL:https://ctvisit.com/events/connecticuts-revolution
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:2026 Sheffield Island Lighthouse Clambake
+DTSTART;VALUE=DATE:20260707
+DTEND;VALUE=DATE:20260826
+DTSTAMP:20260809T171859Z
+UID:ae778acbaacf8b3fa2b1d6928b59@ctvisit-calendar
+DESCRIPTION:Seaport Association Sheffield Island Clambake ADVANCE RESERVAT
+ IONS REQUIRED YOU NEED TO PURCHASE A MEAL TICKET TO GET ON THE BOAT\, ONLY
+  AN ADD ON TICKET DOES NOT GET YOU ON THE BOAT! Capacity is limited. Clamb
+ akes do sell out! The U.S. Coast Guard sets limit OF 48 passengers on boar
+ d. There are no exceptions to this rule and this includes all children.\n\
+ nSource: https://ctvisit.com/events/sheffield-island-lighthouse-clambake
+LOCATION:Norwalk Seaport Dock\, 90 Water St.\, Norwalk CT\, 06854
+URL:https://ctvisit.com/events/sheffield-island-lighthouse-clambake
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Pick-Your-Own Flowers at the Farm
+DTSTART;VALUE=DATE:20260708
+DTEND;VALUE=DATE:20261020
+DTSTAMP:20260809T171859Z
+UID:52be77bd56b4e00cdceef21979a1@ctvisit-calendar
+DESCRIPTION:Stroll through rows of vibrant blooms\, breathe in the fresh c
+ ountry air\, and handpick your own bouquet straight from the field! Our pi
+ ck-your-own cut garden is a joyful\, hands-on experience for flower lovers
+  of all ages. Whether you're creating a gift\, planning a photo-worthy mom
+ ent\, or simply soaking up the beauty of the season\, this is the perfect 
+ way to enjoy nature and its surroundings. Details:\n\nSource: https://ctvi
+ sit.com/events/pick-your-own-flowers-farm-0
+LOCATION:Northern Farm & Flowers\, 59 Old Middle Street\, Goshen CT\, 0675
+ 6
+URL:https://ctvisit.com/events/pick-your-own-flowers-farm-0
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Wild Party
+DTSTART;VALUE=DATE:20260709
+DTEND;VALUE=DATE:20260817
+DTSTAMP:20260809T171859Z
+UID:f0036670acf2b5b88b5431b6247c@ctvisit-calendar
+DESCRIPTION:July 8 - August 16\, 2026 THE WILD PARTY Book\, Music & Lyrics
+  by Andrew Lippa Directed by SEAN HARRIS\, Choreographed by DARLENE ZOLLER
+ \, Music Direction by COLIN BRITT\n\nSource: https://ctvisit.com/events/wi
+ ld-party
+LOCATION:Playhouse on Park\, 244 Park Road\, West Hartford CT\, 06119
+URL:https://ctvisit.com/events/wild-party
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Slippery Truth: Prisonbreak at New-Gate
+DTSTART;VALUE=DATE:20260710
+DTEND;VALUE=DATE:20260831
+DTSTAMP:20260809T171859Z
+UID:fd3fb236c9770a1564b667191b7c@ctvisit-calendar
+DESCRIPTION:In 1781\, as Generals Washington and Rochambeau were making pl
+ ans to end the Revolutionary War\, a group of Loyalist prisoners broke out
+  of the New-Gate Prison in Simsbury\, Connecticut. They overpowered the gu
+ ards\, killing one of them\, and rushed out into the night. Discovering th
+ e truth behind the escape fell on prison trustee John Forward\, who interr
+ ogated guards and the recaptured prisoners. One thing became increasingly 
+ clear—someone was lying.\n\nSource: https://ctvisit.com/events/slippery-
+ truth-prisonbreak-new-gate
+LOCATION:Old New-Gate Prison & Copper Mine\, 115 Newgate Rd.\, East Granby
+  CT\, 06026
+URL:https://ctvisit.com/events/slippery-truth-prisonbreak-new-gate
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:A Place for Artists
+DTSTART;VALUE=DATE:20260711
+DTEND;VALUE=DATE:20260821
+DTSTAMP:20260809T171859Z
+UID:c5e7d12467be59a97c9d2c027122@ctvisit-calendar
+DESCRIPTION:Silvermine Arts Center - Gallery Exhibition: A Place for Artis
+ ts In conjuction with America250\, this exhibition traces the remarkable s
+ tory of Silvermine Arts Center. Visitors will encounter a vibrant narrativ
+ e of creativity — one that demonstrates how Silvermine has shaped lives 
+ for generations and continues to expand access to the arts today. July 11 
+ - August 20\n\nSource: https://ctvisit.com/events/place-artists
+LOCATION:Silvermine Galleries\, 1037 Silvermine Road\, New Canaan CT\, 068
+ 40
+URL:https://ctvisit.com/events/place-artists
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Spooky Popcorn
+DTSTART;VALUE=DATE:20260711
+DTEND;VALUE=DATE:20260830
+DTSTAMP:20260809T171859Z
+UID:d50920d3ec88c3a2a9044b30dc2e@ctvisit-calendar
+DESCRIPTION:Spooky Popcorn is Connecticut's only free\, outdoor horror mov
+ ie series\, taking place for eight straight Saturday nights in July and Au
+ gust on Constitution Plaza in downtown Hartford. Each screening features a
+  classic or new horror film\, along with craft vendors\, dessert vendors\,
+  and multiple prizes. Spooky Popcorn is free and open to the public\, chil
+ dren under 18 should be accompanied by an adult.\n\nSource: https://ctvisi
+ t.com/events/spooky-popcorn
+LOCATION:Constitution Plaza\, 1 Constitution Plaza\, Hartford CT\, 06103
+URL:https://ctvisit.com/events/spooky-popcorn
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:NEW! Litchfield County Clipper
+DTSTART;VALUE=DATE:20260712
+DTEND;VALUE=DATE:20260824
+DTSTAMP:20260809T171859Z
+UID:92fdc662958f5656ec38997d14d3@ctvisit-calendar
+DESCRIPTION:New for 2026\, the Railroad Museum of New England and Naugatuc
+ k Railroad present a flexible\, hop-on/hop-off scenic service connecting T
+ homaston and Torrington. Your ticket serves as an all-day pass\, allowing 
+ you to explore the Litchfield Hills\, shop\, and dine at your own pace. St
+ ation Stops & Destinations Board or disembark at any of our three convenie
+ nt platforms:\n\nSource: https://ctvisit.com/events/chocolate-decadence-to
+ ur-7
+LOCATION:Railroad Museum of New England (RMNE)\, 242 East Main St.\, Thoma
+ ston CT\, 06787
+URL:https://ctvisit.com/events/chocolate-decadence-tour-7
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:NEW! Litchfield County Clipper
+DTSTART;VALUE=DATE:20260712
+DTEND;VALUE=DATE:20260824
+DTSTAMP:20260809T171859Z
+UID:5262885ef6f428706ba811d70f78@ctvisit-calendar
+DESCRIPTION:New for 2026\, the Railroad Museum of New England and Naugatuc
+ k Railroad present a flexible\, hop-on/hop-off scenic service connecting T
+ homaston and Torrington. Your ticket serves as an all-day pass\, allowing 
+ you to explore the Litchfield Hills\, shop\, and dine at your own pace. St
+ ation Stops & Destinations Board or disembark at any of our three convenie
+ nt platforms:\n\nSource: https://ctvisit.com/events/new-litchfield-county-
+ clipper
+LOCATION:Railroad Museum of New England (RMNE)\, 242 East Main St.\, Thoma
+ ston CT\, 06787
+URL:https://ctvisit.com/events/new-litchfield-county-clipper
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Voluntown Farmers Market
+DTSTART;VALUE=DATE:20260712
+DTEND;VALUE=DATE:20261005
+DTSTAMP:20260809T171859Z
+UID:691a13632133392a2b5a367569fa@ctvisit-calendar
+DESCRIPTION:Celebrate the best of local agriculture and handmade goods at 
+ the 14th season of the Voluntown Farmers Market! Held every Saturday from 
+ July 12 through October 4\, the market takes place beneath the beautiful m
+ aple trees in front of Voluntown Elementary School.\n\nSource: https://ctv
+ isit.com/events/voluntown-farmers-market-2
+LOCATION:195 Main Street\, Voluntown CT\, 06384
+URL:https://ctvisit.com/events/voluntown-farmers-market-2
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:JIBBOOM Club #1
+DTSTART;VALUE=DATE:20260721
+DTEND;VALUE=DATE:20261216
+DTSTAMP:20260809T171859Z
+UID:e8342fcee380cc1515c66d1b17b8@ctvisit-calendar
+DESCRIPTION:Jibboom is not a club—it's a welcoming gathering for anyone 
+ who enjoys Connecticut's rich maritime heritage. Join us on the third Tues
+ day of each month\, now through December\, at 1:30 p.m. for an engaging pr
+ esentation by a maritime speaker\, followed by light refreshments and frie
+ ndly conversation. Bring a friend and discover something new. Admission is
+  free\, thanks to the generous sponsorship of Rose & Joe Maco.\n\nSource: 
+ https://ctvisit.com/events/jibboom-club-1
+LOCATION:Custom House Maritime Museum\, Custom House Maritime Museum\, 150
+  Bank Street\, New London CT\, 06320
+URL:https://ctvisit.com/events/jibboom-club-1
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:105th Elected Artists and Expanding Visions exhibitions\, and NHP&
+ CC's Selected Members Exhibition
+DTSTART;VALUE=DATE:20260724
+DTEND;VALUE=DATE:20260912
+DTSTAMP:20260809T171859Z
+UID:2b9036fec631d6cc99aa88f61dc8@ctvisit-calendar
+DESCRIPTION:Experience exhibitions of excellence and distinction this summ
+ er at the Lyme Art Association (LAA). From July 24 – September 11\, LAA 
+ presents three impressive shows in its galleries\, its own 105th Elected A
+ rtists and Expanding Visions exhibitions\, and a guest show\, Selected Mem
+ bers Exhibition\, from the New Haven Paint & Clay Club.\n\nSource: https:/
+ /ctvisit.com/events/105th-elected-artists-and-expanding-visions-exhibition
+ s-and-nhpccs-selected-members
+LOCATION:Lyme Art Association\, 90 Lyme Street\, Old Lyme CT\, 06426
+URL:https://ctvisit.com/events/105th-elected-artists-and-expanding-visions
+ -exhibitions-and-nhpccs-selected-members
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Open Mic at the Custom House Maritime Museum
+DTSTART;VALUE=DATE:20260726
+DTEND;VALUE=DATE:20261228
+DTSTAMP:20260809T171859Z
+UID:0d87efb1ef8bf41cf100a558adc3@ctvisit-calendar
+DESCRIPTION:Come for the creativity\, stay for the camaraderie. Our monthl
+ y Open Mic is all about good vibes and real connection. Hosted by Kenny 'D
+ oc' Frasier\, it’s a welcoming space for music\, poetry\, prose\, stand-
+ up—or just saying what’s on your mind. This is a laid-back\, live show
+  where anyone can show up and share a few minutes on the mic. Try out new 
+ material\, build your confidence\, or just soak in the energy—it’s all
+  fair game. And there are cookies! All ages\, all abilities are welcome.\n
+ \nSource: https://ctvisit.com/events/open-mic-custom-house-maritime-museum
+LOCATION:Custom House Maritime Museum\, Custom House Maritime Museum\, 150
+  Bank Street\, New London CT\, 06320
+URL:https://ctvisit.com/events/open-mic-custom-house-maritime-museum
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:12 Angry Jurors
+DTSTART;VALUE=DATE:20260731
+DTEND;VALUE=DATE:20260817
+DTSTAMP:20260809T171859Z
+UID:9d9a56a6b45caa920236654372d5@ctvisit-calendar
+DESCRIPTION:Twelve strangers. One room. A young man's life in the balance.
+  The pulse-pounding\, edge-of-your-seat legal thriller 12 ANGRY JURORS thr
+ usts the audience into the pressure cooker of a jury deliberation room. At
+  first\, the verdict seems obvious—but when one juror begins to question
+  the evidence\, simmering prejudices and personal conflicts boil over into
+  a fierce battle of wills. Tense\, timely\, and gripping to the last word\
+ , this modern classic is a riveting study of justice\, integrity\, and the
+  power of a single voice to stand against the crowd.\n\nSource: https://ct
+ visit.com/events/12-angry-jurors
+LOCATION:Cheney Hall\, 177 Hartford Road\, Manchester CT\, 06040
+URL:https://ctvisit.com/events/12-angry-jurors
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Concerts on the Green
+DTSTART;VALUE=DATE:20260801
+DTEND;VALUE=DATE:20260802
+DTSTAMP:20260809T171859Z
+UID:2c7b1cb7dd4358097803c71736cd@ctvisit-calendar
+DESCRIPTION:New Milford’s Commission on the Arts is once again hosting t
+ he much-anticipated Concerts on the Green series\, every Saturday evening 
+ at 7 pm during the month of August. The event is free\, and residents are 
+ invited to gather around our historic bandstand with blankets and chairs f
+ or an evening of song under the stars. Grab a friend and bring the family 
+ for a night of high-quality live music right in the heart of New Milford. 
+ The 2026 line-up includes a diverse musical mix of blues\, country\, and p
+ op classics.\n\nSource: https://ctvisit.com/events/concerts-green-1
+LOCATION:New Milford Town Green\, 25 Main St.\, New Milford CT\, 06776
+URL:https://ctvisit.com/events/concerts-green-1
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mi Casa\, Your Casa 2.0
+DTSTART;VALUE=DATE:20260801
+DTEND;VALUE=DATE:20260908
+DTSTAMP:20260809T171859Z
+UID:96e4efa9f9e8e13b0ffb6b0fb476@ctvisit-calendar
+DESCRIPTION:Mi Casa\, Your Casa 2.0 Swing Installation in Columbus Park\, 
+ Stamford Downtown\n\nSource: https://ctvisit.com/events/mi-casa-your-casa-
+ 20
+LOCATION:Columbus Park\, Columbus Park\, Main Street\, Stamford CT\, 06901
+URL:https://ctvisit.com/events/mi-casa-your-casa-20
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:In Our Nation's Defense. Military Stories on the Thames
+DTSTART;VALUE=DATE:20260808
+DTEND;VALUE=DATE:20260913
+DTSTAMP:20260809T171859Z
+UID:ed10215de1197efa855dfd1a601c@ctvisit-calendar
+DESCRIPTION:Historic boat tours bring the Thames River to life with a pass
+ ionate docent leading the way. Hop on and learn something new about this s
+ toried waterway or sit back and catch the breeze.\n\nSource: https://ctvis
+ it.com/events/our-nations-defense-military-stories-thames-31
+LOCATION:​1 Crystal Lake Rd\, Groton CT\, 06340
+URL:https://ctvisit.com/events/our-nations-defense-military-stories-thames
+ -31
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:THE REVIVALISTS w/ Olivia Barnes
+DTSTART;VALUE=DATE:20260811
+DTEND;VALUE=DATE:20260812
+DTSTAMP:20260809T171859Z
+UID:fc888c55d652b9b9e26b9afe4640@ctvisit-calendar
+DESCRIPTION:TUESDAY\, AUGUST 11 | 6.30PM SHOW\, 6PM DOORS SHOW SPONSOR: CO
+ ASTAL BRIDGE ADVISORS Support for this program is provided by the David & 
+ Geri Epstein Private Foundation and Karen & Rob Hess. The Revivalists brin
+ g their dynamic\, genre-blending sound back to the Levitt Pavilion this Au
+ gust! The New Orleans-based\, multi-platinum band has earned a national fo
+ llowing with their fusion of indie rock\, soul\, and folk\, delivered thro
+ ugh a powerful and high-energy live performance.\n\nSource: https://ctvisi
+ t.com/events/revivalists-w-olivia-barnes
+LOCATION:Levitt Pavilion for the Performing Arts\, 40 Jesup Road\, Westpor
+ t CT\, 06880
+URL:https://ctvisit.com/events/revivalists-w-olivia-barnes
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Solar Eclipse Sound Meditation at Lyman Orchards with The Conduit
+DTSTART;VALUE=DATE:20260812
+DTEND;VALUE=DATE:20260813
+DTSTAMP:20260809T171859Z
+UID:1c75e9662a8ad91959b72ee83c7d@ctvisit-calendar
+DESCRIPTION:Celebrate the magic of the Solar Eclipse with a peaceful after
+ noon of sound\, stillness\, and celestial wonder at The Meadow at Lyman Or
+ chards Golf Club. Join The Conduit at 1 PM on Wednesday\, August 12th for 
+ a unique meditation experience inspired by this rare cosmic event.\n\nSour
+ ce: https://ctvisit.com/events/solar-eclipse-sound-meditation-lyman-orchar
+ ds-conduit
+LOCATION:Lyman Orchards Golf Club\, 70 Lyman Road\, Middlefield CT\, 06455
+URL:https://ctvisit.com/events/solar-eclipse-sound-meditation-lyman-orchar
+ ds-conduit
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Connecticut Sun vs. Atlanta Dream
+DTSTART;VALUE=DATE:20260813
+DTEND;VALUE=DATE:20260814
+DTSTAMP:20260809T171859Z
+UID:189f2f5969e632d84ba073e67222@ctvisit-calendar
+DESCRIPTION:The Connecticut Sun will host 19 games at Mohegan Sun Arena th
+ is summer from May - September. Visit Ticketmaster.com to get your tickets
+ \, or call 877-SUN-TIXX for more information on season tickets\, partial p
+ lans\, group tickets\, and more.\n\nSource: https://ctvisit.com/events/con
+ necticut-sun-vs-atlanta-dream-5
+LOCATION:Mohegan Sun Arena\, 1 Mohegan Sun Blvd\, Uncasville CT\, 06382
+URL:https://ctvisit.com/events/connecticut-sun-vs-atlanta-dream-5
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Andrew Dice Clay: Live in Concert
+DTSTART;VALUE=DATE:20260814
+DTEND;VALUE=DATE:20260815
+DTSTAMP:20260809T171859Z
+UID:38c170c8010fe9b8b9b76dcb1eb7@ctvisit-calendar
+DESCRIPTION:Andrew Dice Clay is proud to be one of America’s most contro
+ versial and outrageous comics. Quite simply\, Dice is a Rock and Roll come
+ dy legend. When he released his debut album\, Dice\, the parental advisory
+  label simply read “Warning: This album is offensive.” Despite media b
+ acklash\, Dice’s rise to fame was nothing less than meteoric\, creating 
+ “Dicemania.” He’s sold-out hundreds of arenas all across the country
+  and was the only performer ever “Banned for Life from MTV” (a ban whi
+ ch has since been lifted).\n\nSource: https://ctvisit.com/events/andrew-di
+ ce-clay-live-concert
+LOCATION:The Ridgefield Playhouse\, 80 East Ridge Road\, Ridgefield CT\, 0
+ 6877
+URL:https://ctvisit.com/events/andrew-dice-clay-live-concert
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Live Music with Chris Marolda
+DTSTART;VALUE=DATE:20260814
+DTEND;VALUE=DATE:20260815
+DTSTAMP:20260809T171859Z
+UID:1400b846abe2f20870182447e304@ctvisit-calendar
+DESCRIPTION:Seating is first come first serve! Live music is indoors. No r
+ eservations needed.\n\nSource: https://ctvisit.com/events/live-music-chris
+ -marolda-11
+LOCATION:Paradise Hills Vineyard and Winery\, 15 Windswept Hill Road\, Wal
+ lingford CT\, 06492
+URL:https://ctvisit.com/events/live-music-chris-marolda-11
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sound Meditation Concert at Patriots Park
+DTSTART;VALUE=DATE:20260814
+DTEND;VALUE=DATE:20260815
+DTSTAMP:20260809T171859Z
+UID:f896f67564baab8bf5fcb659bd01@ctvisit-calendar
+DESCRIPTION:Relax and let the soothing sounds of live gongs and singing bo
+ wls wash over you for meditative bliss. Immersed in live soothing vibratio
+ ns - this is the perfect setting to release any negative energy\, and conn
+ ect with your calm and balance within.\n\nSource: https://ctvisit.com/even
+ ts/sound-meditation-concert-patriots-park-28
+LOCATION:The Lodge at Patriots Park\, 172 Lake Street\, Coventry CT\, 0623
+ 8
+URL:https://ctvisit.com/events/sound-meditation-concert-patriots-park-28
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sunflowers\, Sips & Sunsets at Lyman Orchards Sunflower Maze
+DTSTART;VALUE=DATE:20260814
+DTEND;VALUE=DATE:20260815
+DTSTAMP:20260809T171859Z
+UID:121b879d5525be0406cbb5c0602e@ctvisit-calendar
+DESCRIPTION:See\, Swirl\, Sniff\, Sip\, and Savor: Sunflowers & Sunsets! A
+  Wine Tasting like no other! Immerse yourself in the golden glow of a Conn
+ ecticut summer evening with a unique wine tasting event set in the heart o
+ f the Lyman Orchards Sunflower Maze. On the first three Fridays in August\
+ , enjoy wine from three local wineries as you stroll through nearly one mi
+ le of winding sunflower pathways - just in time for sunset! Advance ticket
+  purchase required\, we are expecting to sell out!\n\nSource: https://ctvi
+ sit.com/events/sunflowers-sips-sunsets-lyman-orchards-sunflower-maze-8
+LOCATION:Lyman Orchards Sunflower Maze\, 105 South Street\, Middlefield CT
+ \, 06455
+URL:https://ctvisit.com/events/sunflowers-sips-sunsets-lyman-orchards-sunf
+ lower-maze-8
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:WüF - CAMO PARTY
+DTSTART;VALUE=DATE:20260814
+DTEND;VALUE=DATE:20260815
+DTSTAMP:20260809T171859Z
+UID:e6a67363e5f4a98bdcdc60ef0404@ctvisit-calendar
+DESCRIPTION:The largest Men's dance party & social in central CT! A night 
+ of smiles\, dancing and masculine camaraderie you DON'T want to miss! The 
+ Category Is… Camo PartyBreak out those cute\, sexy Camo outfits and let
+ ’s dance the night away! Dance music ALL NIGHT LONG\, by the wonderful D
+ J Lady Tita >>> TAP HERE FOR MORE INFO\n\nSource: https://ctvisit.com/even
+ ts/wuf-camo-party
+LOCATION:Chez Est\, 458 Wethersfield Ave.\, Hartford CT\, 06114
+URL:https://ctvisit.com/events/wuf-camo-party
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:2nd Annual CTF Team Steve Classic Car/Motorcycle/Jeep Show
+DTSTART;VALUE=DATE:20260815
+DTEND;VALUE=DATE:20260816
+DTSTAMP:20260809T171859Z
+UID:f5bcd39c65b1b58cf56b9938d38e@ctvisit-calendar
+DESCRIPTION:Car\, Motorcycle\, & Jeep show. Food Trucks Raffles Trophies A
+ ll proceeds benefit Smilow Cancer Hospital Info/Questions: Mike Haase 203-
+ 704-0820\n\nSource: https://ctvisit.com/events/2nd-annual-ctf-team-steve-c
+ lassic-carmotorcyclejeep-show
+LOCATION:Southington Drive-In\, 995 Meriden-Waterbury Turnpike\, Southingt
+ on CT\, 06489
+URL:https://ctvisit.com/events/2nd-annual-ctf-team-steve-classic-carmotorc
+ yclejeep-show
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Connecticut Sun vs. New York Liberty
+DTSTART;VALUE=DATE:20260815
+DTEND;VALUE=DATE:20260816
+DTSTAMP:20260809T171859Z
+UID:229a77f1490c997e8617fa0a0ee0@ctvisit-calendar
+DESCRIPTION:The Connecticut Sun will host 19 games at Mohegan Sun Arena th
+ is summer from May - September. Visit Ticketmaster.com to get your tickets
+ \, or call 877-SUN-TIXX for more information on season tickets\, partial p
+ lans\, group tickets\, and more.\n\nSource: https://ctvisit.com/events/con
+ necticut-sun-vs-new-york-liberty-5
+LOCATION:Mohegan Sun Arena\, 1 Mohegan Sun Blvd\, Uncasville CT\, 06382
+URL:https://ctvisit.com/events/connecticut-sun-vs-new-york-liberty-5
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Move with Grace Farms x lululemon | Yoga with Jane Krantz
+DTSTART;VALUE=DATE:20260815
+DTEND;VALUE=DATE:20260816
+DTSTAMP:20260809T171859Z
+UID:bd333f4e6c53f2a020b2f8cdfc4c@ctvisit-calendar
+DESCRIPTION:This yoga class centers on moving through transitions with gra
+ ce and finding stability in order to move with freedom\, awareness\, and e
+ xpression. Starting with grounding breathwork\, instructor Jane Krantz wil
+ l guide you through movement that will ignite a little bit of heat and a l
+ ot of joy\, ending in a restful savasana. Move with Grace Farms x lululemo
+ n is a monthly summer movement series in the Court developed in collaborat
+ ion with local lululemon ambassadors and designed to restore and ignite th
+ e energy to live a more balanced life.\n\nSource: https://ctvisit.com/even
+ ts/move-grace-farms-x-lululemon-yoga-jane-krantz-1
+LOCATION:Grace Farms\, Grace Farms\, 365 Lukes Wood Road\, New Canaan CT\,
+  06840
+URL:https://ctvisit.com/events/move-grace-farms-x-lululemon-yoga-jane-kran
+ tz-1
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Riverfront Dragon Boat & Asian Festival
+DTSTART;VALUE=DATE:20260815
+DTEND;VALUE=DATE:20260816
+DTSTAMP:20260809T171859Z
+UID:8838f78181dc6eab78ea7f7ae8d7@ctvisit-calendar
+DESCRIPTION:Celebrate Asian and Pacific Island cultures through traditiona
+ l music and dance\, hands-on art activities\, food\, and martial arts demo
+ nstrations on the upper plaza with community and club teams racing on the 
+ river. Register a team\, or cheer on your favorite paddlers. Learn more ab
+ out dragon boating here.\n\nSource: https://ctvisit.com/events/riverfront-
+ dragon-boat-asian-festival-1
+LOCATION:Mortensen Riverfront Plaza\, 300 Columbus Boulevard\, Hartford CT
+ \, 06106
+URL:https://ctvisit.com/events/riverfront-dragon-boat-asian-festival-1
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ShakesBeer Festival
+DTSTART;VALUE=DATE:20260815
+DTEND;VALUE=DATE:20260816
+DTSTAMP:20260809T171859Z
+UID:e40565b56cc497b43c2ed7ed786f@ctvisit-calendar
+DESCRIPTION:Get ready to raise your glasses because The ShakesBeer Festiva
+ l is back! Nestled on the grounds of the historic American Shakespeare The
+ ater in Stratford\, with stunning views overlooking Long Island Sound\, th
+ is festival is an annual tradition you don't want to miss. Featuring brewe
+ ries\, wineries\, cideries\, and distilleries showcasing their finest liba
+ tions alongside live music\, local food trucks\, vendors\, and a plethora 
+ of games and activities\, it's a day packed with fun and flavor.\n\nSource
+ : https://ctvisit.com/events/shakesbeer-festival-1
+LOCATION:Shakespeare Park\, 1850 Elm Street\, Stratford CT\, 06615
+URL:https://ctvisit.com/events/shakesbeer-festival-1
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:EveryBody Dances with Pilobolus - Summer Series
+DTSTART;VALUE=DATE:20260816
+DTEND;VALUE=DATE:20260817
+DTSTAMP:20260809T171859Z
+UID:742b33b3a6858dc23dc72133e583@ctvisit-calendar
+DESCRIPTION:EveryBody Dances @ Yale Schwarzman Center brings local and vis
+ iting dance artists to our Dance Studio to teach masterclasses in jazz\, h
+ ip hop\, salsa\, modern\, contemporary\, precision dance and more! All com
+ munity members are welcome. This summer we are offering six weeks of class
+ es led by rotating members of Pilobolus\; Reneé Jaworski\, Emily Kent\, M
+ att Kent\, and Derion Loman.\n\nSource: https://ctvisit.com/events/everybo
+ dy-dances-pilobolus-summer-series-4
+LOCATION:Dance Studio\, Yale Schwarzman Center\, 168 Grove Street\, New Ha
+ ven CT\, 06511
+URL:https://ctvisit.com/events/everybody-dances-pilobolus-summer-series-4
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Live Music with Tony Di and Carla Zipay
+DTSTART;VALUE=DATE:20260816
+DTEND;VALUE=DATE:20260817
+DTSTAMP:20260809T171859Z
+UID:21805bc66507f585774b0a2cd82d@ctvisit-calendar
+DESCRIPTION:Seating is first come first serve! Live music is indoors. No r
+ eservations needed.\n\nSource: https://ctvisit.com/events/live-music-tony-
+ di-and-carla-zipay-11
+LOCATION:Paradise Hills Vineyard and Winery\, 15 Windswept Hill Road\, Wal
+ lingford CT\, 06492
+URL:https://ctvisit.com/events/live-music-tony-di-and-carla-zipay-11
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Happy Neck & Shoulders Workshop
+DTSTART;VALUE=DATE:20260819
+DTEND;VALUE=DATE:20260820
+DTSTAMP:20260809T171859Z
+UID:477e8388dee88df60dc070123136@ctvisit-calendar
+DESCRIPTION:This workshop reviews common neck and shoulder ailments (from 
+ whiplash\, rotator cuff issues\, frozen shoulder\, tension headaches\, to 
+ just that stiff neck you sometimes get). We explain why many of those issu
+ es occur and provide exercises to help relieve the area\, but also strengt
+ hen and tone it in a functional way. We talk about the rib-shoulder connec
+ tion. It's possible you are doing the right exercises\, but never seen res
+ ults\, that might be why. Materials needed: yoga mat & pillow\n\nSource: h
+ ttps://ctvisit.com/events/happy-neck-shoulders-workshop-0
+LOCATION:New Britain Public Library\, 20 High Street\, New Britain CT\, 06
+ 051
+URL:https://ctvisit.com/events/happy-neck-shoulders-workshop-0
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Kitchen Céilí: Concert & Contra Dance
+DTSTART;VALUE=DATE:20260822
+DTEND;VALUE=DATE:20260823
+DTSTAMP:20260809T171859Z
+UID:3bc38864ab34bfa5fb59c64a3ad0@ctvisit-calendar
+DESCRIPTION:Kitchen Céilí: Concert & Contra DanceSaturday\, August 224-5
+ :30 pm Kitchen Céilí is back with traditional music from Ireland\, Scotl
+ and\, and New England\, and this time you're invited to dance! No experien
+ ce\, no partner\, and no rhythm required. Kitchen Céilí will teach the w
+ hole group the simple dance moves before the music starts\, so everyone's 
+ ready to dance together during the performance. All ages\, all skill level
+ s. Easy to learn\, easy to enjoy.\n\nSource: https://ctvisit.com/events/ki
+ tchen-ceili-concert-contra-dance
+LOCATION:The Judy Black Memorial Park and Gardens\, One Green Hill Road\, 
+ Washington Depot CT\, 06794
+URL:https://ctvisit.com/events/kitchen-ceili-concert-contra-dance
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Pilobolus – From the Porch
+DTSTART:20260910T180000
+DTEND:20260910T200000
+DTSTAMP:20260809T171859Z
+UID:e58182cd7057528536abdddd92be@ctvisit-calendar
+DESCRIPTION:Pilobolus is back for their 5th season at Hill-Stead!\n\nSourc
+ e: https://ctvisit.com/events/pilobolus-porch
+LOCATION:Hill-Stead Museum\, 35 Mountain Road\, Farmington CT\, 06032
+URL:https://ctvisit.com/events/pilobolus-porch
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Y2K Drag Brunch
+DTSTART;VALUE=DATE:20260912
+DTEND;VALUE=DATE:20260913
+DTSTAMP:20260809T171859Z
+UID:4fc0d9ca7f38e9995a1e4f43a8d7@ctvisit-calendar
+DESCRIPTION:Celebrate the turn of the century with your own top-notch Conn
+ ecticut Drag Performers. Support Local Drag and a fabulous Local Restauran
+ t. Wear throwback fashion like low-rise denim\, Von Dutch hats\, and frost
+ ed lip gloss at this totally crunk brunch! ❤️ Come celebrate Y2K\, enj
+ oy fantastic local entertainers and support a wonderful restaurant. 🧡 T
+ wisted Vine has a DELICIOUS Italian-American inspired menu and the drinks 
+ will be pouring. 💛 Lets travel down the road and back again to Derby an
+ d let's have a gay olde time!\n\nSource: https://ctvisit.com/events/y2k-dr
+ ag-brunch
+LOCATION:Twisted Vine Restaurant\, 285 Main Street\, Derby CT\, 06418
+URL:https://ctvisit.com/events/y2k-drag-brunch
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:A NIGHT AT BABYLON
+DTSTART;VALUE=DATE:20260926
+DTEND;VALUE=DATE:20260927
+DTSTAMP:20260809T171859Z
+UID:8db56ffe4dddeabde4f9da4c0c88@ctvisit-calendar
+DESCRIPTION:A NIGHT AT BABYLON Presented By DCJR Events Step into an incre
+ dible night\, inspired by Queer as Folk\, where the music is loud\, the li
+ ghts are hypnotic\, and the energy is unapologetically electric. This is a
+  night dedicated entirely to the music and the dance floor. A place to los
+ e yourself in the rhythm\, surrounded by magnetic vibes and a crowd that c
+ ame to feel everything. DJ Sabi will be serving the beats all night long\,
+  keeping the dance floor alive from the first song to the last.\n\nSource:
+  https://ctvisit.com/events/night-babylon
+LOCATION:Chez Est\, 458 Wethersfield Ave.\, Hartford CT\, 06114
+URL:https://ctvisit.com/events/night-babylon
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Haunt on Eden
+DTSTART;VALUE=DATE:20260926
+DTEND;VALUE=DATE:20261108
+DTSTAMP:20260809T171859Z
+UID:15cff6c4ed324739889408c236c8@ctvisit-calendar
+DESCRIPTION:Haunt on Eden was born from one simple passion: creating unfor
+ gettable scares. If Halloween is your favorite time of year because of the
+  blood\, screams\, and heart-pounding terror\, then you've found your kind
+  of place. What began in 2013 as a modest 20' x 30' backyard haunt at the 
+ home of Jeff and Susan Donis has grown into one of Connecticut's premier h
+ aunted attractions. After five years of expanding far beyond what their ba
+ ckyard could hold\, Haunt on Eden found its permanent home at Mount Southi
+ ngton Ski Area\, where it has thrilled guests every fall since 2018.\n\nSo
+ urce: https://ctvisit.com/events/haunt-eden-1
+LOCATION:Mount Southington Ski Area\, 396 Mount Vernon Rd.\, Plantsville C
+ T\, 06479
+URL:https://ctvisit.com/events/haunt-eden-1
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Hocus Pocus Live: An All-New Parody Musical!
+DTSTART;VALUE=DATE:20260926
+DTEND;VALUE=DATE:20260927
+DTSTAMP:20260809T171859Z
+UID:92bd6bbaaff69f341561a59f27ae@ctvisit-calendar
+DESCRIPTION:Featuring CT performance artists Summer Orlando\, Bonnie Petit
+ e\, and Miranda Miranda as the Sanderson Sisters! This ninety-minute famil
+ y friendly production is based on the popular Disney films Hocus Pocus and
+  Hocus Pocus 2 and includes some of the most memorable characters and scen
+ es from the Halloween cult classics. The spellbinding event will include a
+  Sanderson sister costume contest for a chance to win prizes!\n\nSource: h
+ ttps://ctvisit.com/events/hocus-pocus-live-all-new-parody-musical
+LOCATION:The Nancy Marine Studio Theatre\, 68 Main St\, Torrington CT\, 06
+ 790
+URL:https://ctvisit.com/events/hocus-pocus-live-all-new-parody-musical
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Trail of Terror 2026
+DTSTART;VALUE=DATE:20260926
+DTEND;VALUE=DATE:20261031
+DTSTAMP:20260809T171859Z
+UID:9706de8ea45254ade3740ca4ac25@ctvisit-calendar
+DESCRIPTION:Hiding in the woods at the end of a lonesome road is a world o
+ f fright and fantasy that will test one's mettle\, temper one's cavalier c
+ ourage\, torment one's sanity\, and taint one's soul. This vortex of dark 
+ entertainment is the Trail of Terror.\n\nSource: https://ctvisit.com/event
+ s/trail-of-terror
+LOCATION:60 North Plains Hwy.\, Wallingford CT\, 06492
+URL:https://ctvisit.com/events/trail-of-terror
+END:VEVENT
 END:VCALENDAR
