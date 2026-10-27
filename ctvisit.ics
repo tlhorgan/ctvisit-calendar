@@ -7,7 +7,7 @@ BEGIN:VEVENT
 SUMMARY:Downtown Mystic Ghost Tours
 DTSTART;VALUE=DATE:20260102
 DTEND;VALUE=DATE:20261201
-DTSTAMP:20261026T170742Z
+DTSTAMP:20261027T161138Z
 UID:84b25dc48e9bfb13f9ce1fcdc754@ctvisit-calendar
 DESCRIPTION:Our Original Ghost Walk takes travelers through the historic d
  owntown Mystic landscape crossing the bascule bridge between both sides of
@@ -23,27 +23,10 @@ LOCATION:Liberty Pole Square\, East Main Street\, Holmes Street\, Mystic C
 URL:https://ctvisit.com/events/downtown-mystic-ghost-tours-1
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Moonlit Mystic Graveyard Ghost Tours
-DTSTART;VALUE=DATE:20260304
-DTEND;VALUE=DATE:20261130
-DTSTAMP:20261026T170742Z
-UID:87cc9db5307d7b0277c324c812fb@ctvisit-calendar
-DESCRIPTION:There’s nothing more intimately haunting than a colonial bur
- ial ground and Mystic boasts some of the most fascinating and haunted buri
- al grounds around. The Graveyard Ghost tour takes place at Whitehall Buria
- l Ground just off Hendel Drive in Mystic. Whitehall Burial Ground establis
- hed in the 1660’s was one of the common burial places of Mystic until th
- e rural landscape movement arrived to Mystic in 1854. Our Graveyard Ghost 
- Tour tells tales of some of Mystic’s most famous residents.\n\nSource: h
- ttps://ctvisit.com/events/moonlit-mystic-graveyard-ghost-tours-1
-LOCATION:Hendel Drive\, Mystic CT\, 06355
-URL:https://ctvisit.com/events/moonlit-mystic-graveyard-ghost-tours-1
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Words on Wood Party
 DTSTART;VALUE=DATE:20260501
 DTEND;VALUE=DATE:20261224
-DTSTAMP:20261026T170742Z
+DTSTAMP:20261027T161138Z
 UID:30141fc642694de689a557083d0e@ctvisit-calendar
 DESCRIPTION:Choose a Words on Wood design or design your own. We will prep
  are all of your materials and when you arrive\, we will walk you through t
@@ -62,7 +45,7 @@ BEGIN:VEVENT
 SUMMARY:Dudley Farm Farmers Market & More
 DTSTART;VALUE=DATE:20260509
 DTEND;VALUE=DATE:20261101
-DTSTAMP:20261026T170742Z
+DTSTAMP:20261027T161138Z
 UID:e342764ac12210955a536489f043@ctvisit-calendar
 DESCRIPTION:Dudley Farm continues the old-time practice of selling produce
   at a roadside stand and is one of the oldest farmers markets in Connectic
@@ -80,7 +63,7 @@ BEGIN:VEVENT
 SUMMARY:Norwich Stories of the American Revolution
 DTSTART;VALUE=DATE:20260509
 DTEND;VALUE=DATE:20280101
-DTSTAMP:20261026T170742Z
+DTSTAMP:20261027T161138Z
 UID:c5d13aef0c36e1820a30a1a8eed9@ctvisit-calendar
 DESCRIPTION:Norwich\, Connecticut was a center of Revolutionary activity i
  n Eastern Connecticut. From bands of Sons of Liberty to dedicated soldiers
@@ -94,10 +77,29 @@ LOCATION:Slater Memorial Museum\, 108 Crescent Street\, Norwich CT\, 06360
 URL:https://ctvisit.com/events/norwich-stories-american-revolution
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Fairfield in 1776: Revolution & Resilience Exhibition
+DTSTART;VALUE=DATE:20260514
+DTEND;VALUE=DATE:20270104
+DTSTAMP:20261027T161138Z
+UID:a01a280969953b149edaf2f5aaf3@ctvisit-calendar
+DESCRIPTION:2026 marks the 250th anniversary of the Declaration of Indepen
+ dence. Step into colonial Fairfield and learn what the town was like in th
+ e years leading up to 1776. The exhibition will explore the many facets of
+  the people who made up the Fairfield community in 1776\, from their ethni
+ c and religious backgrounds and socio-economic status to the languages the
+ y spoke. Discover who in the colonial community held power at the signing 
+ of the Declaration of Independence–and who didn’t.\n\nSource: https://
+ ctvisit.com/events/fairfield-1776-revolution-resilience-exhibition
+LOCATION:Fairfield Museum & History Center\, 370 Beach Rd\, Fairfield\, CT
+ \, 06824\, Fairfield CT\, 06824
+URL:https://ctvisit.com/events/fairfield-1776-revolution-resilience-exhibi
+ tion
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:All-Inclusive Vineyard Tours from Mystic\, Connecticut
 DTSTART;VALUE=DATE:20260528
 DTEND;VALUE=DATE:20270101
-DTSTAMP:20261026T170742Z
+DTSTAMP:20261027T161138Z
 UID:e790de70d34675311a2dfd098889@ctvisit-calendar
 DESCRIPTION:Visit three beautiful southeastern Connecticut vineyards in on
  e unforgettable day. If you're visiting Mystic\, Connecticut and want to e
@@ -113,7 +115,7 @@ BEGIN:VEVENT
 SUMMARY:Farmers Market at CT’s Old State House
 DTSTART;VALUE=DATE:20260605
 DTEND;VALUE=DATE:20261031
-DTSTAMP:20261026T170742Z
+DTSTAMP:20261027T161138Z
 UID:ad4e38d44ec5231ba74faff1b22d@ctvisit-calendar
 DESCRIPTION:Connecticut’s Old State House Farmers Market Season is every
   Tuesday and Friday from 10am to 2pm from June 5th to October 30th! Come v
@@ -130,7 +132,7 @@ BEGIN:VEVENT
 SUMMARY:Happy Anniversary! Centenary Celebrations & Beyond Exhibition
 DTSTART;VALUE=DATE:20260613
 DTEND;VALUE=DATE:20261109
-DTSTAMP:20261026T170742Z
+DTSTAMP:20261027T161138Z
 UID:2c2ca09efd5829976ab8eaf3d2a7@ctvisit-calendar
 DESCRIPTION:How do we remember past moments in history? How do we choose t
  o celebrate? From the Declaration of Independence’s Centennial in 1876 a
@@ -147,10 +149,28 @@ URL:https://ctvisit.com/events/happy-anniversary-centenary-celebrations-be
  yond-exhibition
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Theodate Pope’s Highfield: A History
+DTSTART;VALUE=DATE:20260613
+DTEND;VALUE=DATE:20261102
+DTSTAMP:20261027T161138Z
+UID:b9720db4cecb637bb43d7b1d0571@ctvisit-calendar
+DESCRIPTION:On a countryside hill in Middlebury\, Connecticut\, stands Hig
+ hfield\, the estate designed by pioneering architect Theodate Pope Riddle 
+ (1867–1946) for Joseph and Elizabeth Chamberlain in 1911–1914. By the 
+ time of the commission\, Pope was starting to make a name for herself. Des
+ pite a lack of formal architectural training\, she designed schools and ho
+ mes throughout Connecticut\, retaining only her maiden name “Pope” in 
+ her professional pursuits\, and challenging the era’s gender stereotypes
+  along the way.\n\nSource: https://ctvisit.com/events/theodate-popes-highf
+ ield-history
+LOCATION:Mattatuck Museum\, 144 West Main Street\, Waterbury CT\, 06702
+URL:https://ctvisit.com/events/theodate-popes-highfield-history
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Pick your own at Lyman Orchards Open Daily
 DTSTART;VALUE=DATE:20260615
 DTEND;VALUE=DATE:20261102
-DTSTAMP:20261026T170742Z
+DTSTAMP:20261027T161138Z
 UID:9e54a265a8a25f6b560ae4b38baf@ctvisit-calendar
 DESCRIPTION:The 2026 Pick-Your-Own Season is OPEN! Hours: Open Daily\, 8 A
  M - 4:30 PM For information and updates on picking conditions\, please cal
@@ -166,7 +186,7 @@ BEGIN:VEVENT
 SUMMARY:Patchwork: Connecticut Artists Consider 250
 DTSTART;VALUE=DATE:20260627
 DTEND;VALUE=DATE:20261109
-DTSTAMP:20261026T170742Z
+DTSTAMP:20261027T161138Z
 UID:e0bfea214e6c7c09aeb09fdcedf5@ctvisit-calendar
 DESCRIPTION:In June 2026\, the Florence Griswold Museum will mount a jurie
  d exhibition of contemporary art to celebrate the 250th birthday of the Un
@@ -184,7 +204,7 @@ BEGIN:VEVENT
 SUMMARY:Skateport Saturdays in Bridgeport
 DTSTART;VALUE=DATE:20260627
 DTEND;VALUE=DATE:20261115
-DTSTAMP:20261026T170742Z
+DTSTAMP:20261027T161138Z
 UID:8c5517e7dce8735ef14fbed716f1@ctvisit-calendar
 DESCRIPTION:Season 5 of Skateport Saturdays at Post Office Square is Here!
  !!! Join us every other Saturday beginning June 27th through November 14th
@@ -196,7 +216,7 @@ BEGIN:VEVENT
 SUMMARY:Connecticut's Revolution
 DTSTART;VALUE=DATE:20260704
 DTEND;VALUE=DATE:20270710
-DTSTAMP:20261026T170742Z
+DTSTAMP:20261027T161138Z
 UID:3c870322b2c192cd3affdf7d2330@ctvisit-calendar
 DESCRIPTION:The Museum of Connecticut History at the Connecticut State Lib
  rary announces a new exhibit commemorating the nation’s 250th anniversar
@@ -209,7 +229,7 @@ BEGIN:VEVENT
 SUMMARY:JIBBOOM Club #1
 DTSTART;VALUE=DATE:20260721
 DTEND;VALUE=DATE:20261216
-DTSTAMP:20261026T170742Z
+DTSTAMP:20261027T161138Z
 UID:e8342fcee380cc1515c66d1b17b8@ctvisit-calendar
 DESCRIPTION:Jibboom is not a club—it's a welcoming gathering for anyone 
  who enjoys Connecticut's rich maritime heritage. Join us on the third Tues
@@ -226,7 +246,7 @@ BEGIN:VEVENT
 SUMMARY:Open Mic at the Custom House Maritime Museum
 DTSTART;VALUE=DATE:20260726
 DTEND;VALUE=DATE:20261228
-DTSTAMP:20261026T170742Z
+DTSTAMP:20261027T161138Z
 UID:0d87efb1ef8bf41cf100a558adc3@ctvisit-calendar
 DESCRIPTION:Come for the creativity\, stay for the camaraderie. Our monthl
  y Open Mic is all about good vibes and real connection. Hosted by Kenny 'D
@@ -244,7 +264,7 @@ BEGIN:VEVENT
 SUMMARY:Fall Riding Programs
 DTSTART;VALUE=DATE:20260903
 DTEND;VALUE=DATE:20261218
-DTSTAMP:20261026T170742Z
+DTSTAMP:20261027T161138Z
 UID:3a0f441c01737619bb80b1ba710b@ctvisit-calendar
 DESCRIPTION:Experience the thrill of horseback riding at our beautiful new
   facility in Woodbury\, CT! Our Fall Riding Programs offer fun\, friendly 
@@ -262,7 +282,7 @@ BEGIN:VEVENT
 SUMMARY:Bishop's Fall Festival
 DTSTART;VALUE=DATE:20260905
 DTEND;VALUE=DATE:20261102
-DTSTAMP:20261026T170742Z
+DTSTAMP:20261027T161138Z
 UID:9109d30ae2972fccfcdf525c9d34@ctvisit-calendar
 DESCRIPTION:Join us for our annual Fall Festival\, running September 5th t
  hrough November 1st\, 2026. Enjoy outdoor fun for the whole family in our 
@@ -277,7 +297,7 @@ BEGIN:VEVENT
 SUMMARY:Celebrate America’s 250th — Farm Style!
 DTSTART;VALUE=DATE:20260905
 DTEND;VALUE=DATE:20261031
-DTSTAMP:20261026T170742Z
+DTSTAMP:20261027T161138Z
 UID:45ec8c2df1cfa934eb0823df9572@ctvisit-calendar
 DESCRIPTION:🍁 FALL COMES ALIVE AT THE FARM!🇺🇸 Celebrate America
  ’s 250th & A Whole Lot of Fall! 🌽 Corn Maze • 🔎 MazeQuest™ •
@@ -290,29 +310,26 @@ LOCATION:The Farm's Fields\, 281 Weekeepeemee Road\, Woodbury CT\, 06798
 URL:https://ctvisit.com/events/celebrate-americas-250th-farm-style
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Exhibition: Stars & Stripes - The American Flag from 9/11 to 250
-DTSTART;VALUE=DATE:20260912
-DTEND;VALUE=DATE:20261206
-DTSTAMP:20261026T170742Z
-UID:2dee3dd24987876baebf5ed4155e@ctvisit-calendar
-DESCRIPTION:2026 marks the momentous occasion of the United States celebra
- ting 250 years as a nation\, and also marks 25 years since the 9/11 terror
- ist attacks. This September\, Slater Memorial Museum of Norwich Free Acade
- my brings to life a display of memories as captured by artist and author R
- obert Carley. Carley’s documentation of post-9/11 America showcases vivi
- d and meaningful images of the American flag across the country\, expresse
- d in dozens of different forms.\n\nSource: https://ctvisit.com/events/exhi
- bition-stars-stripes-american-flag-911-250
-LOCATION:Converse Gallery\, Slater Memorial Museum\, 108 Crescent Street\,
-  Norwich CT\, 06360
-URL:https://ctvisit.com/events/exhibition-stars-stripes-american-flag-911-
- 250
+SUMMARY:Imagination Playground
+DTSTART;VALUE=DATE:20260905
+DTEND;VALUE=DATE:20261101
+DTSTAMP:20261027T161138Z
+UID:da798a6014e5ec8088d7b36892a2@ctvisit-calendar
+DESCRIPTION:Children can build skills\, solve problems\, and make friends 
+ in the Court using an innovative system of large-scale\, lightweight block
+ s designed to encourage fun and learning through curiosity-driven play. Fo
+ r ages 8 and under with adult caregivers. Tues\, Wed\, Thur\, Fri and Sat 
+ | 10:00 am - 5:00 pm Sundays | 12:00 pm - 5:00 pm\n\nSource: https://ctvis
+ it.com/events/imagination-playground
+LOCATION:Grace Farms\, Grace Farms\, 365 Lukes Wood Road\, New Canaan CT\,
+  06840
+URL:https://ctvisit.com/events/imagination-playground
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Fair Weather Growers Fall Festival & Corn Maze 2026
 DTSTART;VALUE=DATE:20260912
 DTEND;VALUE=DATE:20261102
-DTSTAMP:20261026T170742Z
+DTSTAMP:20261027T161138Z
 UID:b6a0a87d7de799beb5492d585013@ctvisit-calendar
 DESCRIPTION:Join us for our annual Fall Festival and Corn Maze! Bring the 
  whole family and celebrate the season with us. Explore our corn maze\, enj
@@ -328,10 +345,28 @@ URL:https://ctvisit.com/events/fair-weather-growers-fall-festival-corn-maz
  e-2026
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:New England Landscape & Bon Appétit Exhibitions
+DTSTART;VALUE=DATE:20260918
+DTEND;VALUE=DATE:20261107
+DTSTAMP:20261027T161138Z
+UID:c189e2398b3c78c2cedcb61d7ce6@ctvisit-calendar
+DESCRIPTION:Lyme Art Association (LAA) is proud to announce New England La
+ ndscape\, its annual juried exhibition celebrating the rich and varied cha
+ rm of the East Coast\, where nature's artistry unfolds in breathtaking bea
+ uty. This gorgeous art show includes rolling hills covered with trees\, lo
+ nely roads\, cow-dotted farmlands\, historical homes\, and bustling townsc
+ apes\, all done in various mediums that visually explore people’s connec
+ tion to this extraordinary and gorgeous terrain.\n\nSource: https://ctvisi
+ t.com/events/new-england-landscape-bon-appetit-exhibitions
+LOCATION:Lyme Art Association\, 90 Lyme Street\, Old Lyme CT\, 06371
+URL:https://ctvisit.com/events/new-england-landscape-bon-appetit-exhibitio
+ ns
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Walktober 2026
 DTSTART;VALUE=DATE:20260919
 DTEND;VALUE=DATE:20261109
-DTSTAMP:20261026T170742Z
+DTSTAMP:20261027T161138Z
 UID:f0975a1b427097c90589d5f9c323@ctvisit-calendar
 DESCRIPTION:Come celebrate the 36th Annual Walktober in The Last Green Val
  ley National Heritage Corridor from Sept. 19 to Nov. 8. Featuring more tha
@@ -347,46 +382,44 @@ LOCATION:The Last Green Valley National Heritage Corridor\, 203B Main St.
 URL:https://ctvisit.com/events/walktober-2026
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Elected Members Exhibition
-DTSTART;VALUE=DATE:20260922
-DTEND;VALUE=DATE:20261113
-DTSTAMP:20261026T170742Z
-UID:51e79904222a53548285fbb9dcba@ctvisit-calendar
-DESCRIPTION:The Clinton Art Society (CAS) is pleased to present the Electe
- d Members Exhibition on view from September 22 through November 12\, 2026.
-  The annual exhibit highlights work by more than 30 accomplished artists. 
- The opening reception is on Thursday\, September 24 from 4:30pm to 6:30pm 
- and is free and open to the public. “The exhibition is a celebration of 
- our Elected Members’ talents and individual artistic journeys. CAS is de
- lighted to showcase their art in this special show\,” said Robin-Hammeal
- -Urban\, CAS President.\n\nSource: https://ctvisit.com/events/elected-memb
- ers-exhibition
-LOCATION:Andrews Memorial Town Hall\, 54 E. Main Street\, clinton CT\, 064
- 13
-URL:https://ctvisit.com/events/elected-members-exhibition
+SUMMARY:We Live Here
+DTSTART;VALUE=DATE:20260925
+DTEND;VALUE=DATE:20261219
+DTSTAMP:20261027T161138Z
+UID:561fc4d7ef1ba7afe9fe435470b7@ctvisit-calendar
+DESCRIPTION:An exhibition that looks at housing as the framework of commun
+ ity life. With historical images\, photography\, architectural designs\, r
+ esident testimony\, and interactive displays\, We Live Here will place a c
+ entury of residential life in the greater New London area and Connecticut 
+ in the broader context of the nation. The history of dwelling is our socia
+ l history. It illuminates how our communities live now and could live bett
+ er in the future.\n\nSource: https://ctvisit.com/events/we-live-here
+LOCATION:The Garde Gallery\, Garde Arts Center\, 305 State Street\, New Lo
+ ndon CT\, 06320
+URL:https://ctvisit.com/events/we-live-here
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:"Light into the Dungeon:" A Jack O' Lantern Experience
-DTSTART;VALUE=DATE:20260925
-DTEND;VALUE=DATE:20261101
-DTSTAMP:20261026T170742Z
-UID:7db19b5f554b8cf719b511adce51@ctvisit-calendar
-DESCRIPTION:Experience the Old New-Gate Prison & Copper Mine like never be
- fore! In the late 18th century\, people incarcerated at New-Gate Prison we
- re housed in the abandoned copper mine in total darkness. Celebrate the Fa
- ll season with us as we bring “Light into the Dungeon.” Explore the 10
- 0-yard loop of the underground copper mine illuminated by a display of 400
-  professionally carved Jack O' Lanterns. Advanced Tickets Required\n\nSour
- ce: https://ctvisit.com/events/light-dungeon-jack-o-lantern-experience-3
-LOCATION:Old New-Gate Prison & Copper Mine\, 115 Newgate Rd.\, East Granby
-  CT\, 06026
-URL:https://ctvisit.com/events/light-dungeon-jack-o-lantern-experience-3
+SUMMARY:Wee Faerie Village: Gemstone Station
+DTSTART;VALUE=DATE:20260926
+DTEND;VALUE=DATE:20261102
+DTSTAMP:20261027T161138Z
+UID:f51e34dc36693254ad4e532b0eee@ctvisit-calendar
+DESCRIPTION:This year’s Wee Faerie Village at the Florence Griswold Muse
+ um is going to rock! Join us for a visit to Gemstone Station\, September 2
+ 6 – November 1. Open Tuesdays–Sundays\, 10 am to 5pm. Closed Mondays**
+ Open for the holiday on October 12 All that glitters is not gold…sometim
+ es it’s rubies\, emeralds\, and diamonds. Explore a Wee Faerie Village w
+ here everything is made from precious gifts of the earth: twinkling gemsto
+ nes\, sparkling rare minerals\, and shimmering shiny metals.\n\nSource: ht
+ tps://ctvisit.com/events/wee-faerie-village-gemstone-station
+LOCATION:Florence Griswold Museum\, 96 Lyme Street\, Old Lyme CT\, 06371
+URL:https://ctvisit.com/events/wee-faerie-village-gemstone-station
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:GLOW Wild Lantern Festival
 DTSTART;VALUE=DATE:20261001
 DTEND;VALUE=DATE:20261221
-DTSTAMP:20261026T170742Z
+DTSTAMP:20261027T161138Z
 UID:3f4a557baa0e216067c65ea27a6a@ctvisit-calendar
 DESCRIPTION:Held Thursday through Sunday 5:30 pm - 9:30 pm now through Dec
  ember 20th\, GLOW Wild invites guests to stroll through glowing pathways s
@@ -403,7 +436,7 @@ BEGIN:VEVENT
 SUMMARY:OPEN STUDIOS NEW HAVEN 2026
 DTSTART;VALUE=DATE:20261001
 DTEND;VALUE=DATE:20261102
-DTSTAMP:20261026T170742Z
+DTSTAMP:20261027T161138Z
 UID:35b09cd74f0a3330198a7a253cf5@ctvisit-calendar
 DESCRIPTION:Open studios and art events across the city all through Octobe
  r!\n\nSource: https://ctvisit.com/events/open-studios-new-haven-2026
@@ -412,31 +445,27 @@ LOCATION:Open studios and art events across the city all through October!
 URL:https://ctvisit.com/events/open-studios-new-haven-2026
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Lockwood-Mathews Mansion Museum to present a new exhibition on ico
- ns in collaboration with CSOPA
-DTSTART;VALUE=DATE:20261007
-DTEND;VALUE=DATE:20270104
-DTSTAMP:20261026T170742Z
-UID:fdfc478efe8468ca22007ec03477@ctvisit-calendar
-DESCRIPTION:The Evolving Icon The Lockwood-Mathews Mansion Museum\, in col
- laboration with the Connecticut Society of Portrait Artists\, presents The
-  Evolving Icon\, a group exhibition exploring the art of hand-rendered por
- traiture. Featuring works by 17 artists\, the exhibition spans traditional
-  realism and classical techniques to contemporary interpretations and expe
- rimental\, conceptual approaches—showcasing how portraiture continues to
-  evolve while capturing the likeness\, personality\, and essence of its su
- bjects.\n\nSource: https://ctvisit.com/events/lockwood-mathews-mansion-mus
- eum-present-new-exhibition-icons-collaboration-csopa
-LOCATION:Lockwood Mathews Mansion Museum\, 295 West Avenue\, Norwalk CT\, 
- 06850
-URL:https://ctvisit.com/events/lockwood-mathews-mansion-museum-present-new
- -exhibition-icons-collaboration-csopa
+SUMMARY:Echoes of the Circle: The Eastern Community Mandala
+DTSTART;VALUE=DATE:20261002
+DTEND;VALUE=DATE:20261205
+DTSTAMP:20261027T161138Z
+UID:1289022af7affcaa440bbfcda44b@ctvisit-calendar
+DESCRIPTION:"Echoes of the Circle: The Eastern Community Mandala" is a col
+ laborative exhibition exploring the circle as a visual form and metaphor f
+ or connection\, ritual\, repetition\, and everyday life. Featuring artwork
+ s and handcrafted objects by members of the Eastern community\, the exhibi
+ tion invites reflection on the cycles\, practices\, and gestures that crea
+ te rhythm\, meaning\, memory\, and connection in our lives.\n\nSource: htt
+ ps://ctvisit.com/events/echoes-circle-eastern-community-mandala
+LOCATION:Fine Arts Instructional Center\, Art Gallery\, 83 Windham Street
+ \, Willimantic CT\, 06226
+URL:https://ctvisit.com/events/echoes-circle-eastern-community-mandala
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Little Bear Ridge Road
 DTSTART;VALUE=DATE:20261008
 DTEND;VALUE=DATE:20261109
-DTSTAMP:20261026T170742Z
+DTSTAMP:20261027T161138Z
 UID:93cc12103a15c68bc45a8f8ed302@ctvisit-calendar
 DESCRIPTION:LITTLE BEAR RIDGE ROAD Written by Samuel D. Hunter Directed by
   Rob Ruggiero TONY NOMINEE BEST PLAY\n\nSource: https://ctvisit.com/events
@@ -445,61 +474,10 @@ LOCATION:TheaterWorks Hartford\, 233 Pearl Street\, Hartford CT\, 06103
 URL:https://ctvisit.com/events/little-bear-ridge-road
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Gallery on the Green Presents 58th Annual Open Juried Exhibition a
- nd Solo Exhibition by Patty Weise
-DTSTART;VALUE=DATE:20261009
-DTEND;VALUE=DATE:20261108
-DTSTAMP:20261026T170742Z
-UID:bc01a565ff666c17c19a6aff1e4a@ctvisit-calendar
-DESCRIPTION:Gallery on the Green Presents 58th Annual Open Juried Exhibiti
- on and Solo Exhibition by Patty Weise Gallery on the Green\, 5 Canton Gree
- n Rd\, Canton\, CT Exhibit dates: Friday\, October 9\, through Saturday\, 
- November 7\, 2026. Opening Reception/Awards: Saturday\, October 17\, from 
- 6:00 to 8:00 p.m. Gallery Hours: Friday\, Saturday\, Sunday\, 1:00-5:00 pm
- \n\nSource: https://ctvisit.com/events/gallery-green-presents-58th-annual-
- open-juried-exhibition-and-solo-exhibition-patty-weise
-LOCATION:Gallery on the Green\, 5 Canton Green Road\, Canton CT\, 06019
-URL:https://ctvisit.com/events/gallery-green-presents-58th-annual-open-jur
- ied-exhibition-and-solo-exhibition-patty-weise
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:American Stories from Sargent to O'Keeffe: A Partnership with the 
- Newark Museum of Art
-DTSTART;VALUE=DATE:20261015
-DTEND;VALUE=DATE:20271011
-DTSTAMP:20261026T170742Z
-UID:19b60092199f6fca136ac78b7122@ctvisit-calendar
-DESCRIPTION:American Stories from Sargent to O’Keeffe brings forty-five 
- masterworks of American art to Greenwich and the region through an extraor
- dinary partnership with The Newark Museum of Art. Newark’s American art 
- collection ranks among the finest in the nation\, with exceptional holding
- s spanning from the colonial period and Hudson River School to the present
-  day. Audiences will experience iconic paintings including Georgia O’Kee
- ffe’s White Flower on Red Earth\, No.\n\nSource: https://ctvisit.com/eve
- nts/american-stories-sargent-okeeffe-partnership-newark-museum-art
-LOCATION:The Bruce Museum\, 1 Museum Drive\, Greenwich CT\, 06860
-URL:https://ctvisit.com/events/american-stories-sargent-okeeffe-partnershi
- p-newark-museum-art
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:IN SEARCH OF SASQUATCH: CT BIGFOOT HALLOWEEN ADVENTURE
-DTSTART;VALUE=DATE:20261016
-DTEND;VALUE=DATE:20261102
-DTSTAMP:20261026T170742Z
-UID:970e39b903cb757281778a0cbe43@ctvisit-calendar
-DESCRIPTION:With all the recent Connecticut Sasquatch sightings\, a Hallow
- een attraction may prove once and for all whether there’s an actual Bigf
- oot in the state.\n\nSource: https://ctvisit.com/events/search-sasquatch-c
- t-bigfoot-halloween-adventure
-LOCATION:Shore Line Trolley Museum\, 17 River St.\, East Haven CT\, 06512
-URL:https://ctvisit.com/events/search-sasquatch-ct-bigfoot-halloween-adven
- ture
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Beautiful: The Carole King Musical
 DTSTART;VALUE=DATE:20261022
 DTEND;VALUE=DATE:20261123
-DTSTAMP:20261026T170742Z
+DTSTAMP:20261027T161138Z
 UID:1a213b2f5ab356ec8575bcaca10e@ctvisit-calendar
 DESCRIPTION:Before she was hit-maker Carole King — she was Carole Klein
  \, a spunky\, young songwriter from Brooklyn with a unique voice. From the
@@ -512,80 +490,29 @@ LOCATION:A.C.T. of CT\, 36 Old Quarry Road\, Ridgefield CT\, 06877
 URL:https://ctvisit.com/events/beautiful-carole-king-musical-1
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Afterschool Adventures Session 2
-DTSTART;VALUE=DATE:20261027
-DTEND;VALUE=DATE:20261223
-DTSTAMP:20261026T170742Z
-UID:5f3d8815e095567bf5bae542caa7@ctvisit-calendar
-DESCRIPTION:The RTP Estuary Center’s afterschool program allows particip
- ants to engage in hands-on\, inquiry-based learning experiences through ST
- EAM-based activities. Participants will learn how to use various types of 
- scientific equipment and design and conduct experiments based on different
-  weekly and seasonally themed topics\, while also incorporating crafts and
-  games. Themes will reflect the seasonal change found in nature. Participa
- nts are encouraged to dress for the weather and bring a snack and a water 
- bottle. Open to Grade K-4.\n\nSource: https://ctvisit.com/events/afterscho
- ol-adventures-session-2
-LOCATION:RTP Estuary Center\, 100 Lyme Street\, Old Lyme CT\, 06371
-URL:https://ctvisit.com/events/afterschool-adventures-session-2
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Suzanne Vega-Flying With Angels
-DTSTART;VALUE=DATE:20261027
-DTEND;VALUE=DATE:20261028
-DTSTAMP:20261026T170742Z
-UID:30e5d4f52ab0b7e86a6b74d73203@ctvisit-calendar
-DESCRIPTION:Flying With Angels Limited # of VIP Packages Available Suzanne
-  Vega will perform a career-spanning show including favorites like “Tom
- ’s Diner”\, “Luka”\, “Marlene On The Wall”\, and many more\, p
- lus songs from her latest album\, Flying with Angels\, which was released 
- in May 2025 to critical acclaim. She will be joined on stage by her longti
- me guitarist\, Gerry Leonard (of David Bowie fame)\, and cellist Stephanie
-  Winters.\n\nSource: https://ctvisit.com/events/suzanne-vega-flying-angels
- -0
-LOCATION:Katharine Hepburn Cultural Arts Center\, 300 Main Street\, Old Sa
- ybrook CT\, 06472
-URL:https://ctvisit.com/events/suzanne-vega-flying-angels-0
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Price is Right Live — On Stage
-DTSTART;VALUE=DATE:20261027
-DTEND;VALUE=DATE:20261028
-DTSTAMP:20261026T170742Z
-UID:ed249b2bcf1f3f5f63972fda6272@ctvisit-calendar
-DESCRIPTION:“Come on Down” to THE PRICE IS RIGHT LIVE™\, you could b
- e next! This family-friendly show is making its way to you! This isn’t j
- ust any stage show—it’s an interactive\, non-televised\, live version 
- of the iconic game show you know and love\, hosted by our larger-than-life
-  Celebrity Host who brings all the fun\, flair\, and unforgettable persona
- lity you expect from The Price Is Right.\n\nSource: https://ctvisit.com/ev
- ents/price-right-live-stage
-LOCATION:Palace Theater\, 100 East Main Street\, 100 East Main Street\, Wa
- terbury CT\, 06702
-URL:https://ctvisit.com/events/price-right-live-stage
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Timber Rattlesnakes: From Fear to Fascination
-DTSTART;VALUE=DATE:20261027
-DTEND;VALUE=DATE:20261028
-DTSTAMP:20261026T170742Z
-UID:4cc24c19105523f8025dde50d5fd@ctvisit-calendar
-DESCRIPTION:Timber rattlesnakes are important\, but often misunderstood\, 
- members of our local forests. Join the Housatonic Valley Association and K
- ent Land Trust on Tuesday\, October 27\, from 6:30 - 7:30 p.m.\, to learn 
- more about the natural history and ecology of this fascinating species\, t
- he threats they face\, and why connected habitat is so important for their
-  survival.\n\nSource: https://ctvisit.com/events/timber-rattlesnakes-fear-
- fascination
-LOCATION:Kent Town Hall or Online\, 41 Kent Green Boulevard\, Kent CT\, 06
- 757
-URL:https://ctvisit.com/events/timber-rattlesnakes-fear-fascination
+SUMMARY:Andrew Hoffman: “Business School and the Noble Purpose of Market
+ s”
+DTSTART;VALUE=DATE:20261028
+DTEND;VALUE=DATE:20261029
+DTSTAMP:20261027T161138Z
+UID:6c3daf04e8c2aac733f6037fe81e@ctvisit-calendar
+DESCRIPTION:About the Speaker: Andy Hoffman is the Holcim (US) Professor o
+ f Sustainable Enterprise at the University of Michigan\; a position that h
+ olds joint appointments in the Stephen M. Ross School of Business and the 
+ School for Environment and Sustainability. He has published 18 books and o
+ ver 100 articles/book chapters. His work has been covered in The New York 
+ Times\, Scientific American\, Time\, Wall Street Journal\, Atlantic\, and 
+ National Public Radio.\n\nSource: https://ctvisit.com/events/andrew-hoffma
+ n-business-school-and-noble-purpose-markets
+LOCATION:Online over Zoom\, 1073 North Benson Road\, Fairfield CT\, 06824
+URL:https://ctvisit.com/events/andrew-hoffman-business-school-and-noble-pu
+ rpose-markets
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Coco Montoya
 DTSTART;VALUE=DATE:20261028
 DTEND;VALUE=DATE:20261029
-DTSTAMP:20261026T170742Z
+DTSTAMP:20261027T161138Z
 UID:67d79dc08daccad7bf415729e119@ctvisit-calendar
 DESCRIPTION:Blues Guitar Virtuoso and Soul-Deep Singer\n\nSource: https://
  ctvisit.com/events/coco-montoya-0
@@ -598,7 +525,7 @@ SUMMARY:Dancing About Architecture - Narrative\, Fashion\, and Performance
  : A Conversation with Jordan Roth and Tavia Nyong’o
 DTSTART;VALUE=DATE:20261028
 DTEND;VALUE=DATE:20261029
-DTSTAMP:20261026T170742Z
+DTSTAMP:20261027T161138Z
 UID:3befce2ce0600df772f787fed593@ctvisit-calendar
 DESCRIPTION:Embracing a spectrum of expression and form\, Jordan Roth's on
  going engagement with theater arts and fashion has evolved into a performa
@@ -616,10 +543,28 @@ URL:https://ctvisit.com/events/dancing-about-architecture-narrative-fashio
  n-and-performance-conversation-jordan-roth-and
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Emanuel Ax
+DTSTART;VALUE=DATE:20261028
+DTEND;VALUE=DATE:20261029
+DTSTAMP:20261027T161138Z
+UID:d65fe46400c94fb013984f45b99f@ctvisit-calendar
+DESCRIPTION:Born to Polish parents in what is today Lviv\, Ukraine\, Emanu
+ el Ax moved to Winnipeg\, Canada\, with his family when he was a young boy
+ . Mr. Ax made his New York debut in the Young Concert Artists Series\, and
+  in 1974 won the first Arthur Rubinstein International Piano Competition i
+ n Tel Aviv. In 1975 he won the Michaels Award of Young Concert Artists\, f
+ ollowed by the Avery Fisher Prize. Emanuel Ax was recently named the 2026 
+ Musical America Artist of the Year.\n\nSource: https://ctvisit.com/events/
+ emanuel-ax
+LOCATION:The Ridgefield Playhouse\, 80 East Ridge Road\, Ridgefield CT\, 0
+ 6877
+URL:https://ctvisit.com/events/emanuel-ax
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Gallery Talk: Fred Wilson and the Reception of Ancient Art
 DTSTART;VALUE=DATE:20261028
 DTEND;VALUE=DATE:20261029
-DTSTAMP:20261026T170742Z
+DTSTAMP:20261027T161138Z
 UID:8897cc31a277dad4fb82d507afbf@ctvisit-calendar
 DESCRIPTION:Join us for a special Gallery talk with Marice Rose\, PhD (Pro
  fessor of Art History & Visual Culture)!\n\nSource: https://ctvisit.com/ev
@@ -633,7 +578,7 @@ BEGIN:VEVENT
 SUMMARY:Grateful Shred
 DTSTART;VALUE=DATE:20261028
 DTEND;VALUE=DATE:20261029
-DTSTAMP:20261026T170742Z
+DTSTAMP:20261027T161138Z
 UID:e71f2b9f3392051be1d5f6ea7a55@ctvisit-calendar
 DESCRIPTION:After a meteoric rise from obscurity to a national touring ban
  d\, Los Angeles-based Grateful Shred has made the most of its time in the 
@@ -650,7 +595,7 @@ BEGIN:VEVENT
 SUMMARY:Making Wildwood: The Craft of Stop-Motion Puppetry Forum
 DTSTART;VALUE=DATE:20261028
 DTEND;VALUE=DATE:20261029
-DTSTAMP:20261026T170742Z
+DTSTAMP:20261027T161138Z
 UID:c2ee0ced972ee7670d2b2ef20eb3@ctvisit-calendar
 DESCRIPTION:Join guest moderator Allison Paul\, a UConn Associate Professo
  r of Illustration/Animation\, as she talks with UConn Puppet Arts alum Mag
@@ -666,10 +611,29 @@ URL:https://ctvisit.com/events/making-wildwood-craft-stop-motion-puppetry-
  forum
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:CT River Lecture Series – Monarch Butterfly Biology\, Ecology\, 
+ and Conservation Needs\, with Kelsey Fisher
+DTSTART;VALUE=DATE:20261029
+DTEND;VALUE=DATE:20261030
+DTSTAMP:20261027T161138Z
+UID:bd116b75acbcd74373a4fb22304a@ctvisit-calendar
+DESCRIPTION:The monarch butterfly population in North America is in declin
+ e in association with the loss of breeding habitat\, including milkweed an
+ d nectar resources\, in the United States. Because of the challenging cost
+  to support the ‘boots-on-the-ground’ effort required to reach this go
+ al\, it is imperative that new habitat establishment practices are designe
+ d to maximize monarch survival\, longevity\, and realized fecundity.\n\nSo
+ urce: https://ctvisit.com/events/ct-river-lecture-series-monarch-butterfly
+ -biology-ecology-and-conservation-needs-kelsey
+LOCATION:Lyme Art Association\, 90 Lyme Street\, Old Lyme CT\, 06371
+URL:https://ctvisit.com/events/ct-river-lecture-series-monarch-butterfly-b
+ iology-ecology-and-conservation-needs-kelsey
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Dandelion's Halloween Soiree
 DTSTART;VALUE=DATE:20261029
 DTEND;VALUE=DATE:20261030
-DTSTAMP:20261026T170742Z
+DTSTAMP:20261027T161138Z
 UID:49d7713da28b3b96cee52e2191ac@ctvisit-calendar
 DESCRIPTION:Celebrate Halloween on the patio with festive cocktails\, Medi
  terranean bites\, music\, and a spirited costume contest. Join us at Dande
@@ -686,7 +650,7 @@ BEGIN:VEVENT
 SUMMARY:Hocus Pocus Live!!! 2026
 DTSTART;VALUE=DATE:20261029
 DTEND;VALUE=DATE:20261030
-DTSTAMP:20261026T170742Z
+DTSTAMP:20261027T161138Z
 UID:5694861504df03a90df8e2f53e40@ctvisit-calendar
 DESCRIPTION:A full-length theatrical musical parody production based on th
  e cult classic Disney film — this original production returns to the Pal
@@ -705,7 +669,7 @@ BEGIN:VEVENT
 SUMMARY:RUBBERBAND Dance
 DTSTART;VALUE=DATE:20261029
 DTEND;VALUE=DATE:20261030
-DTSTAMP:20261026T170742Z
+DTSTAMP:20261027T161138Z
 UID:a779497cd7ee87c24f7af00ba1c8@ctvisit-calendar
 DESCRIPTION:The internationally acclaimed contemporary dance company\, fou
  nded in Montreal in 2002 by Victor Quijada\, is known for its signature RU
@@ -722,7 +686,7 @@ BEGIN:VEVENT
 SUMMARY:Tasting Series @ Commons: Oleoteca - Olive Oil Exploration
 DTSTART;VALUE=DATE:20261029
 DTEND;VALUE=DATE:20261030
-DTSTAMP:20261026T170742Z
+DTSTAMP:20261027T161138Z
 UID:8f0790e3dc184ba4a0961a492b4b@ctvisit-calendar
 DESCRIPTION:Oleoteca - Olive Oil Exploration presented by Yale School of P
  ublic Health and Yale Schwarzman Center Hospitality will set the stage for
@@ -738,7 +702,7 @@ BEGIN:VEVENT
 SUMMARY:The Origins of All Hallows Eve
 DTSTART;VALUE=DATE:20261029
 DTEND;VALUE=DATE:20261030
-DTSTAMP:20261026T170742Z
+DTSTAMP:20261027T161138Z
 UID:320c76ebd7d423263e896c6effab@ctvisit-calendar
 DESCRIPTION:Samhain or Sauin is the traditional Gaelic festival\, the prec
  ursor to Halloween\, held from October 31st to November 1st to mark the en
@@ -752,10 +716,29 @@ LOCATION:Connecticut Valley Brewing\, 765 Sullivan Avenue\, South Windsor
 URL:https://ctvisit.com/events/origins-all-hallows-eve
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Afternoon Tea
+DTSTART;VALUE=DATE:20261030
+DTEND;VALUE=DATE:20261031
+DTSTAMP:20261027T161138Z
+UID:1db04dfe8653a8d5909addf59a25@ctvisit-calendar
+DESCRIPTION:Gather with friends in the glass-enclosed Pavilion for an invi
+ ting and immersive afternoon tea experience. Choose your favorite blend of
+  Grace Farms Tea and enjoy a freshly brewed pot\, alongside an eye-catchin
+ g assortment of seasonal bites. Inspired by the elegance of English tea se
+ rvice\, this joyful and indulgent afternoon offers the perfect blend of co
+ nversation\, connection\, and exceptional flavor. Hosted by Pastry Chef an
+ d Educator Leah Jones and Tea Expert and Educator Frank Kwei\, this unique
+  Grace Farms experience fills quickly — reserve your seat today.\n\nSour
+ ce: https://ctvisit.com/events/afternoon-tea-10
+LOCATION:Grace Farms\, Grace Farms\, 365 Lukes Wood Road\, New Canaan CT\,
+  06840
+URL:https://ctvisit.com/events/afternoon-tea-10
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Annie
 DTSTART;VALUE=DATE:20261030
 DTEND;VALUE=DATE:20261228
-DTSTAMP:20261026T170742Z
+DTSTAMP:20261027T161138Z
 UID:ed2616def2bfcf8b4712bcac14c6@ctvisit-calendar
 DESCRIPTION:Leapin' Lizards! The musical that stole America’s heart come
  s home to celebrate its 50th anniversary on the stage where it all began! 
@@ -769,10 +752,24 @@ LOCATION:The Goodspeed\, 6 Main Street\, East Haddam CT\, 06423
 URL:https://ctvisit.com/events/annie
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Detective Murder Mystery Dinner
+DTSTART;VALUE=DATE:20261030
+DTEND;VALUE=DATE:20261031
+DTSTAMP:20261027T161138Z
+UID:51277f61b55cbadb1de1c1c28891@ctvisit-calendar
+DESCRIPTION:An interactive evening of mystery\, clues\, and suspense! Enjo
+ y dinner while you follow the evidence\, question the suspects\, and see i
+ f you can solve the crime before the night is over.\n\nSource: https://ctv
+ isit.com/events/detective-murder-mystery-dinner
+LOCATION:Water's Edge Resort & Spa\, 1525 Boston Post Road\, Westbrook CT
+ \, 06498
+URL:https://ctvisit.com/events/detective-murder-mystery-dinner
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Halloween Eve Slingtacular!
 DTSTART;VALUE=DATE:20261030
 DTEND;VALUE=DATE:20261031
-DTSTAMP:20261026T170742Z
+DTSTAMP:20261027T161138Z
 UID:5ea05c5e6b9adcb1b505959087c5@ctvisit-calendar
 DESCRIPTION:Halloween Eve Slingtacular at the Fork+Band Slingshot Shooting
   Gallery!\n\nSource: https://ctvisit.com/events/halloween-eve-slingtacular
@@ -784,7 +781,7 @@ BEGIN:VEVENT
 SUMMARY:Haunted Tales With Joe Franke at Yankee Cider Co
 DTSTART;VALUE=DATE:20261030
 DTEND;VALUE=DATE:20261031
-DTSTAMP:20261026T170742Z
+DTSTAMP:20261027T161138Z
 UID:4e80de1f942d396dffe28c5f117b@ctvisit-calendar
 DESCRIPTION:Step into the mysterious world of the unknown with renowned pa
  ranormal expert Joe Franke as he takes you on a storied journey through th
@@ -800,7 +797,7 @@ BEGIN:VEVENT
 SUMMARY:SNATCH GAME
 DTSTART;VALUE=DATE:20261030
 DTEND;VALUE=DATE:20261031
-DTSTAMP:20261026T170742Z
+DTSTAMP:20261027T161138Z
 UID:ce9e8d2a0c4cad512bc6085b6926@ctvisit-calendar
 DESCRIPTION:SNATCH GAME Presented By ConnecticutDrag.com & The Chez Est Ho
  sted By AMETHYST\, From RuPaul's Drag Race (S15) Join us for the 3rd annua
@@ -812,26 +809,10 @@ LOCATION:Chez Est\, 458 Wethersfield Ave.\, Hartford CT\, 06114
 URL:https://ctvisit.com/events/snatch-game
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Singapore Hawker Stall
-DTSTART;VALUE=DATE:20261030
-DTEND;VALUE=DATE:20261031
-DTSTAMP:20261026T170742Z
-UID:62f9acba128432f38219f89928a0@ctvisit-calendar
-DESCRIPTION:Step into the electric world of the Singapore hawker stall wit
- h Chef Ian Chin — master Hainanese Chicken Rice (perfectly poached fowl 
- over savory\, fat-slicked grains)\, rich fiery Singapore-style Laksa\, and
-  savory radish 'carrot cake' stir-fried with egg and smoky wok hei. No sho
- rtcuts\, no pretension.\n\nSource: https://ctvisit.com/events/singapore-ha
- wker-stall
-LOCATION:The Silo at Hunt Hill Farm\, 44 Upland Road\, New Milford CT\, 06
- 776
-URL:https://ctvisit.com/events/singapore-hawker-stall
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:The 2026 UConn Fall Puppet Slam
 DTSTART;VALUE=DATE:20261030
 DTEND;VALUE=DATE:20261031
-DTSTAMP:20261026T170742Z
+DTSTAMP:20261027T161138Z
 UID:4ba6391787098967f14f24324643@ctvisit-calendar
 DESCRIPTION:The 2026 UConn Fall Puppet Slam welcomes New York-based fiber 
  artist and puppeteer J Hann and puppeteer Esme Roszel\, who will perform a
@@ -846,10 +827,27 @@ LOCATION:Von Der Mehden Recital Hall\, 875 Coventry Rd\, Storrs CT\, 06269
 URL:https://ctvisit.com/events/2026-uconn-fall-puppet-slam
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Walktober: Halloween Mushrooms at the HEEP with Karen Monger
+DTSTART;VALUE=DATE:20261030
+DTEND;VALUE=DATE:20261031
+DTSTAMP:20261027T161138Z
+UID:ac549bc2918beef79379bfc2fe9e@ctvisit-calendar
+DESCRIPTION:The Connecticut State Museum of Natural History heads to the a
+ rchives and the woods this fall to celebrate the wonderful world of mushro
+ oms with exhibits and field experiences! We are excited to be hosting mult
+ iple mushroom forays during The Last Green Valley’s annual Walktober pro
+ gram.\n\nSource: https://ctvisit.com/events/walktober-halloween-mushrooms-
+ heep-karen-monger
+LOCATION:Hillside Environmental Education Park\, UConn Storrs\, Old Wood R
+ d\, Storrs CT\, 06268
+URL:https://ctvisit.com/events/walktober-halloween-mushrooms-heep-karen-mo
+ nger
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:HALLOWEEN COSTUME CONTEST - Featuring Loosey LaDuca
 DTSTART;VALUE=DATE:20261031
 DTEND;VALUE=DATE:20261101
-DTSTAMP:20261026T170742Z
+DTSTAMP:20261027T161138Z
 UID:a781c142de38629771ffc0d825b9@ctvisit-calendar
 DESCRIPTION:The Chez Est Presents\, The Annual HALLOWEEN COSTUME CONTEST F
  eaturing Loosey LaDuca\, from RuPaul's Drag Race (S15) Costume Contest Pri
@@ -864,7 +862,7 @@ BEGIN:VEVENT
 SUMMARY:Halloween Brew Maze at Lyman Orchards Corn Maze
 DTSTART;VALUE=DATE:20261031
 DTEND;VALUE=DATE:20261101
-DTSTAMP:20261026T170742Z
+DTSTAMP:20261027T161138Z
 UID:a7925ca99e0d6ba4be95561a19e9@ctvisit-calendar
 DESCRIPTION:Craft brews + Flashlight maze = Halloween done right! Bring yo
  ur spooky spirit this October 31st\, and enjoy our Halloween Flashlight Br
@@ -884,7 +882,7 @@ BEGIN:VEVENT
 SUMMARY:Lyman Orchards Pie Run: Kid Run\, 5K & 5 Mile
 DTSTART;VALUE=DATE:20261031
 DTEND;VALUE=DATE:20261101
-DTSTAMP:20261026T170742Z
+DTSTAMP:20261027T161138Z
 UID:9b84712ac62b3c0a55c77fe64743@ctvisit-calendar
 DESCRIPTION:Join us for the 2026 Lyman Orchards Pie Run Road Race on Satur
  day\, October 31st\, 2026!A beautiful race through our hilly orchards and 
@@ -903,7 +901,7 @@ BEGIN:VEVENT
 SUMMARY:Newtown Farm Crawl
 DTSTART;VALUE=DATE:20261031
 DTEND;VALUE=DATE:20261102
-DTSTAMP:20261026T170742Z
+DTSTAMP:20261027T161138Z
 UID:2f3709dbb6bddba2e052b380c254@ctvisit-calendar
 DESCRIPTION:"Click on the picture to see all farms!!!Do not forget to pick
   up your Farm Crawl passport at any of the 5 locations during the farm cra
@@ -917,25 +915,10 @@ LOCATION:Multipe Farms in Newtown\, 63 S. Main St.\, Newtown CT\, 06470
 URL:https://ctvisit.com/events/newtown-farm-crawl
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Spooky Beats & Eats at 1741 Pub & Grill with DJ Kt Lay
-DTSTART;VALUE=DATE:20261031
-DTEND;VALUE=DATE:20261101
-DTSTAMP:20261026T170742Z
-UID:de60a6c2b3e9ebca4d53baa6e8b0@ctvisit-calendar
-DESCRIPTION:Spend Halloween night at 1741 with DJ Kt Lay spinning some fun
-  tunes from 7–10 PM while you grab dinner\, sip on some cocktails\, and 
- enjoy the Halloween vibes. Want to make a whole night of it? Check out our
-  Halloween Flashlight Brew Maze or take on The Orchard Trials: Haunted Hou
- se before or after your meal!\n\nSource: https://ctvisit.com/events/spooky
- -beats-eats-1741-pub-grill-dj-kt-lay
-LOCATION:1741 Pub & Grill\, 70 Lyman Road\, Middlefield CT\, 06455
-URL:https://ctvisit.com/events/spooky-beats-eats-1741-pub-grill-dj-kt-lay
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:The 47th Annual Fall Home Show
 DTSTART;VALUE=DATE:20261031
 DTEND;VALUE=DATE:20261102
-DTSTAMP:20261026T170742Z
+DTSTAMP:20261027T161138Z
 UID:a6ce1c920524d819e1b90445efc6@ctvisit-calendar
 DESCRIPTION:The 47th Annual Fall Connecticut Home Show\, happening October
   31st – November 1st\, 2026\, at the Connecticut Convention Center in Ha
@@ -951,7 +934,7 @@ BEGIN:VEVENT
 SUMMARY:The Halloween Bar Crawl - Hartford
 DTSTART;VALUE=DATE:20261031
 DTEND;VALUE=DATE:20261101
-DTSTAMP:20261026T170742Z
+DTSTAMP:20261027T161138Z
 UID:e83ac2539480e1a6f6a0a69b2ace@ctvisit-calendar
 DESCRIPTION:Haunt the bars in Hartford with us at our Halloween Bar Crawl 
  on Oct. 31st - don’t ghost us! 🎃 Get Spooky With US This Halloween! 
@@ -968,7 +951,7 @@ BEGIN:VEVENT
 SUMMARY:The Halloween Bar Crawl - New Haven
 DTSTART;VALUE=DATE:20261031
 DTEND;VALUE=DATE:20261101
-DTSTAMP:20261026T170742Z
+DTSTAMP:20261027T161138Z
 UID:667e45430ad04148915827702beb@ctvisit-calendar
 DESCRIPTION:Haunt the bars in New Haven with us at our Halloween Bar Crawl
   on Oct. 31st - don’t ghost us! 🎃 Get Spooky With US This Halloween! 
@@ -982,10 +965,28 @@ LOCATION:PRIME BGR\, 172 Temple Street\, New Haven\, CT CT\, 06510
 URL:https://ctvisit.com/events/halloween-bar-crawl-new-haven
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:The Halloween Bar Crawl - Stamford
+DTSTART;VALUE=DATE:20261031
+DTEND;VALUE=DATE:20261101
+DTSTAMP:20261027T161138Z
+UID:13b7c26fd88cef1c65ebc358da1a@ctvisit-calendar
+DESCRIPTION:Haunt the bars in Stamford with us at our Halloween Bar Crawl 
+ on Oct. 31st - don’t ghost us! 🎃 Get Spooky With US This Halloween! 
+ 🎃 Round up your boo crew\, show off your costumes\, and prepare for a n
+ ight of creepy cocktails\, chills\, and unforgettable bar-hopping fun! 
+ 👻🍹 Click ✅ GOING ✅ On The Facebook Event ⬇️ So You Don't Mis
+ s Updates https://www.facebook.com/events/2046317585944027 Here's What You
+  Get: 👽 Join a Spine-Chilling Crowd of Spooky Crawlers!\n\nSource: http
+ s://ctvisit.com/events/halloween-bar-crawl-stamford
+LOCATION:Hibernian Association Inc\, 186 Greyrock Place\, Stamford CT\, 06
+ 901
+URL:https://ctvisit.com/events/halloween-bar-crawl-stamford
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Wethersfield Trolley Rides
 DTSTART;VALUE=DATE:20261031
 DTEND;VALUE=DATE:20261101
-DTSTAMP:20261026T170742Z
+DTSTAMP:20261027T161138Z
 UID:cde7df7a82fd7d19fbee85926819@ctvisit-calendar
 DESCRIPTION:October 24th & 31st\, 11:00am – 4:00pm. Wethersfield Trolley
   Rides The Town of Wethersfield is proud to announce FREE trolley rides co
@@ -995,24 +996,10 @@ LOCATION:100 Great Meadow Road\, Wethersfield CT\, 06109
 URL:https://ctvisit.com/events/wethersfield-trolley-rides-0
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:AutumnFest
-DTSTART;VALUE=DATE:20261101
-DTEND;VALUE=DATE:20261102
-DTSTAMP:20261026T170742Z
-UID:97202265c770ae84d9ecac37ca69@ctvisit-calendar
-DESCRIPTION:There's no better way to celebrate the end of Autumn than by j
- oining in on all the fun at the Lyman Orchards AutumnFest! It's all happen
- ing at the Apple Barrel Farm Market on Sunday\, November 1st\, 10 AM - 4 P
- M! Activities:\n\nSource: https://ctvisit.com/events/autumnfest-0
-LOCATION:Lyman Orchards Apple Barrel Farm Market\, 32 Reeds Gap Road\, Mid
- dlefield CT\, 06455
-URL:https://ctvisit.com/events/autumnfest-0
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:New Age & Crafts Expo
 DTSTART;VALUE=DATE:20261101
 DTEND;VALUE=DATE:20261102
-DTSTAMP:20261026T170742Z
+DTSTAMP:20261027T161138Z
 UID:04ca7c946b91a1d49498b964a9ed@ctvisit-calendar
 DESCRIPTION:Two Rooms of Dynamic Speakers & Meditations. Angel Cards Tarot
   & Intuitive Readings Crystals Aura Photos Health & Wellness Hadcrafted Ju
@@ -1025,7 +1012,7 @@ BEGIN:VEVENT
 SUMMARY:Orchard Wassail at Yankee Cider Co
 DTSTART;VALUE=DATE:20261101
 DTEND;VALUE=DATE:20261102
-DTSTAMP:20261026T170742Z
+DTSTAMP:20261027T161138Z
 UID:77a5b9a7639b6d054c5a1049a56d@ctvisit-calendar
 DESCRIPTION:***FREE EVENT*** Celebrate the end of the harvest season and h
  elp us bless the apples for a restful winter and a bountiful new year at o
@@ -1042,7 +1029,7 @@ SUMMARY:Cocktails & Conversations: The Language of Art: Expression\, Heali
  ng & Connection
 DTSTART;VALUE=DATE:20261105
 DTEND;VALUE=DATE:20261106
-DTSTAMP:20261026T170742Z
+DTSTAMP:20261027T161138Z
 UID:465dfea13e4a4aa3e597ed2df6e2@ctvisit-calendar
 DESCRIPTION:How can art communicate what words sometimes cannot? Join a Cu
  ratorial Team member at the Mattatuck Museum\, along with Briana Benn Mira
@@ -1062,7 +1049,7 @@ BEGIN:VEVENT
 SUMMARY:Iphis & Ianthe - Creative & Performing Arts (CPA) Awards
 DTSTART;VALUE=DATE:20261105
 DTEND;VALUE=DATE:20261106
-DTSTAMP:20261026T170742Z
+DTSTAMP:20261027T161138Z
 UID:83cac7997b337ef86f2182af542b@ctvisit-calendar
 DESCRIPTION:Loosely based on a myth from Ovid’s Metamorphoses\, "Iphis &
   Ianthe" is a queer rom-com about literature\, gender\, and studying for f
@@ -1077,7 +1064,7 @@ BEGIN:VEVENT
 SUMMARY:Flannel Festival
 DTSTART;VALUE=DATE:20261108
 DTEND;VALUE=DATE:20261109
-DTSTAMP:20261026T170742Z
+DTSTAMP:20261027T161138Z
 UID:b208f9b8388b8f2a4092078035f0@ctvisit-calendar
 DESCRIPTION:Grab your favorite flannel and get ready for the ultimate fall
   day at Dockside! Celebrate the season with crisp autumn vibes\, cozy laye
@@ -1093,7 +1080,7 @@ BEGIN:VEVENT
 SUMMARY:Meditation and Mindfulness in the Museum
 DTSTART;VALUE=DATE:20261110
 DTEND;VALUE=DATE:20261111
-DTSTAMP:20261026T170742Z
+DTSTAMP:20261027T161138Z
 UID:eabd0d56a19f31c34a902b488edf@ctvisit-calendar
 DESCRIPTION:Join us in the Bellarmine Hall Galleries for restorative sessi
  ons led by teacher Jackie DeLise!\n\nSource: https://ctvisit.com/events/me
@@ -1106,7 +1093,7 @@ BEGIN:VEVENT
 SUMMARY:Adult Workshop: Reflections in Focus: Ming Smith
 DTSTART;VALUE=DATE:20261112
 DTEND;VALUE=DATE:20261113
-DTSTAMP:20261026T170742Z
+DTSTAMP:20261027T161138Z
 UID:21a3b7f006ec55c7210a9be6992d@ctvisit-calendar
 DESCRIPTION:Reflections in Focus is a four-part mindfulness and gallery-ob
  servation series inviting participants to encounter Ming Smith’s photogr
@@ -1119,21 +1106,41 @@ LOCATION:Mattatuck Museum\, 144 West Main St.\, Waterbury CT\, 06702
 URL:https://ctvisit.com/events/adult-workshop-reflections-focus-ming-smith
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Yoga and Movement with Pilin Anice
-DTSTART;VALUE=DATE:20261121
-DTEND;VALUE=DATE:20261122
-DTSTAMP:20261026T170742Z
-UID:97b63d91ff469595583daf0b5a61@ctvisit-calendar
-DESCRIPTION:Experience movement and music in the light-filled Court with r
- enowned mindfulness and wellness expert\, Pilin Anice. This invigorating c
- lass takes participants through a breath-centered yoga practice while inco
- rporating live music. These movement and meditation classes are for ages 1
- 8+ up. Accessible for all levels\, no prior yoga or meditation experience 
- is required. Participants may bring their own mats\, towels\, props\, and 
- water.\n\nSource: https://ctvisit.com/events/yoga-and-movement-pilin-anice
- -16
-LOCATION:Grace Farms\, Grace Farms\, 365 Lukes Wood Road\, New Canaan CT\,
-  06840
-URL:https://ctvisit.com/events/yoga-and-movement-pilin-anice-16
+SUMMARY:New Age Fair
+DTSTART;VALUE=DATE:20261115
+DTEND;VALUE=DATE:20261116
+DTSTAMP:20261027T161138Z
+UID:a859ff77f175ec289acf0ba2f758@ctvisit-calendar
+DESCRIPTION:Sample the metaphysical world at the Astrological Society of C
+ onnecticut’s popular fair. Readings are 20 minutes for $25 (cash\, check
+ s\, credit cards). Types include astrology\, tarot and other cards\, intui
+ tive\, medium\, psychic and more. Vendors sell a wide array of wares\, suc
+ h as crystals\, books\, CDs\, jewelry\, gifts and items for health and wel
+ l-being. Wellness practitioners offer massage\, Reiki\, sound healing and 
+ more. Free presentations cover a broad spectrum of the metaphysical world.
+ \n\nSource: https://ctvisit.com/events/new-age-fair-1
+LOCATION:Pitkin Community Center\, 30 Greenfield St.\, Wethersfield CT\, 0
+ 6109
+URL:https://ctvisit.com/events/new-age-fair-1
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Parental Advisory Warning Pink Eggs & Glam Drag Brunch w/ Pissi My
+ les
+DTSTART;VALUE=DATE:20261115
+DTEND;VALUE=DATE:20261116
+DTSTAMP:20261027T161138Z
+UID:46f283f61dbb1aa986303e4d2015@ctvisit-calendar
+DESCRIPTION:Sky Casper Entertainment & The Social Bar + Kitchen invite you
+  to a drag brunch that is gloriously\, offensively\, unapologetically NOT 
+ appropriate for… well\, almost anyone. PARENTAL ADVISORY WARNINGA specia
+ l Pink Eggs & Glam experience - and we are warning you right now. Starring
+  New York Cities most dangerously funny\, absolutely filthy\, and frighten
+ ingly clever drag comedian and live singer: Pissi Myles.\n\nSource: https:
+ //ctvisit.com/events/parental-advisory-warning-pink-eggs-glam-drag-brunch-
+ w-pissi-myles
+LOCATION:The Social Bar + Kitchen\, 208 Bank Street\, New London CT\, 0632
+ 0
+URL:https://ctvisit.com/events/parental-advisory-warning-pink-eggs-glam-dr
+ ag-brunch-w-pissi-myles
 END:VEVENT
 END:VCALENDAR
