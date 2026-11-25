@@ -7,7 +7,7 @@ BEGIN:VEVENT
 SUMMARY:Downtown Mystic Ghost Tours
 DTSTART;VALUE=DATE:20260102
 DTEND;VALUE=DATE:20261201
-DTSTAMP:20261124T205933Z
+DTSTAMP:20261125T202154Z
 UID:84b25dc48e9bfb13f9ce1fcdc754@ctvisit-calendar
 DESCRIPTION:Our Original Ghost Walk takes travelers through the historic d
  owntown Mystic landscape crossing the bascule bridge between both sides of
@@ -26,7 +26,7 @@ BEGIN:VEVENT
 SUMMARY:Spirits of Mystic Pub Crawl
 DTSTART;VALUE=DATE:20260123
 DTEND;VALUE=DATE:20261219
-DTSTAMP:20261124T205933Z
+DTSTAMP:20261125T202154Z
 UID:d2055bf0b2e3ceda180fb850dad2@ctvisit-calendar
 DESCRIPTION:Raise a glass to the past and sip your way through Mystic’s 
  haunted history on the Spirits of Mystic Pub Crawl! Join Seaside Shadows f
@@ -42,7 +42,7 @@ BEGIN:VEVENT
 SUMMARY:Moonlit Mystic Graveyard Ghost Tours
 DTSTART;VALUE=DATE:20260304
 DTEND;VALUE=DATE:20261130
-DTSTAMP:20261124T205933Z
+DTSTAMP:20261125T202154Z
 UID:87cc9db5307d7b0277c324c812fb@ctvisit-calendar
 DESCRIPTION:There’s nothing more intimately haunting than a colonial bur
  ial ground and Mystic boasts some of the most fascinating and haunted buri
@@ -56,46 +56,10 @@ LOCATION:Hendel Drive\, Mystic CT\, 06355
 URL:https://ctvisit.com/events/moonlit-mystic-graveyard-ghost-tours-1
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:West of the River
-DTSTART;VALUE=DATE:20260330
-DTEND;VALUE=DATE:20261219
-DTSTAMP:20261124T205933Z
-UID:7e51d60d561d2c95968a1adc8922@ctvisit-calendar
-DESCRIPTION:In West of the River\, photographer Christian Badach describes
-  the paradoxical notions that come from being immersed in the rural landsc
- ape and these spaces' ability to act as catalysts in the formation of spec
- ific emotions. In showing the landscape in various states of natural and u
- nnatural fluctuation\, his work uses the visual cues presented by the chan
- ging of seasons\, weather variations\, and natural phenomena.\n\nSource: h
- ttps://ctvisit.com/events/west-river
-LOCATION:The Well Gallery\, Yale Schwarzman Center\, 168 Grove Street\, Ne
- w Haven CT\, 06511
-URL:https://ctvisit.com/events/west-river
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Tomashi Jackson + Robert Rauschenberg: The Catch One
-DTSTART;VALUE=DATE:20260416
-DTEND;VALUE=DATE:20261215
-DTSTAMP:20261124T205933Z
-UID:86a4d086e5bfe4e52abb14030c7c@ctvisit-calendar
-DESCRIPTION:To mark the centennial of Robert Rauschenberg’s birth\, The 
- Glass House together with the Robert Rauschenberg Foundation proudly prese
- nts Tomashi Jackson and Robert Rauschenberg: The Catch One. Featuring newl
- y commissioned paintings by Jackson in dialogue with works by Rauschenberg
-  from the historic site’s permanent collection\, the exhibition contribu
- tes to a global slate of 2025–26 initiatives that reexamine Rauschenberg
- ’s legacy\, honoring his expansive creativity\, spirit of curiosity\, an
- d commitment to change.\n\nSource: https://ctvisit.com/events/tomashi-jack
- son-robert-rauschenberg-catch-one
-LOCATION:The Glass House\, 861 Silvermine Road\, New Canaan CT\, 06840
-URL:https://ctvisit.com/events/tomashi-jackson-robert-rauschenberg-catch-o
- ne
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Words on Wood Party
 DTSTART;VALUE=DATE:20260501
 DTEND;VALUE=DATE:20261224
-DTSTAMP:20261124T205933Z
+DTSTAMP:20261125T202154Z
 UID:30141fc642694de689a557083d0e@ctvisit-calendar
 DESCRIPTION:Choose a Words on Wood design or design your own. We will prep
  are all of your materials and when you arrive\, we will walk you through t
@@ -114,7 +78,7 @@ BEGIN:VEVENT
 SUMMARY:Norwich Stories of the American Revolution
 DTSTART;VALUE=DATE:20260509
 DTEND;VALUE=DATE:20280101
-DTSTAMP:20261124T205933Z
+DTSTAMP:20261125T202154Z
 UID:c5d13aef0c36e1820a30a1a8eed9@ctvisit-calendar
 DESCRIPTION:Norwich\, Connecticut was a center of Revolutionary activity i
  n Eastern Connecticut. From bands of Sons of Liberty to dedicated soldiers
@@ -131,7 +95,7 @@ BEGIN:VEVENT
 SUMMARY:Sharks Exhibition
 DTSTART;VALUE=DATE:20260509
 DTEND;VALUE=DATE:20270101
-DTSTAMP:20261124T205933Z
+DTSTAMP:20261125T202154Z
 UID:e900bdd06c9878548021b8ca7c6d@ctvisit-calendar
 DESCRIPTION:People have been fascinated by sharks for as long as we have e
  xplored the ocean\, and now the Connecticut Science Center is bringing tha
@@ -149,7 +113,7 @@ BEGIN:VEVENT
 SUMMARY:Fairfield in 1776: Revolution & Resilience Exhibition
 DTSTART;VALUE=DATE:20260514
 DTEND;VALUE=DATE:20270104
-DTSTAMP:20261124T205933Z
+DTSTAMP:20261125T202154Z
 UID:a01a280969953b149edaf2f5aaf3@ctvisit-calendar
 DESCRIPTION:2026 marks the 250th anniversary of the Declaration of Indepen
  dence. Step into colonial Fairfield and learn what the town was like in th
@@ -168,7 +132,7 @@ BEGIN:VEVENT
 SUMMARY:All-Inclusive Vineyard Tours from Mystic\, Connecticut
 DTSTART;VALUE=DATE:20260528
 DTEND;VALUE=DATE:20270101
-DTSTAMP:20261124T205933Z
+DTSTAMP:20261125T202154Z
 UID:e790de70d34675311a2dfd098889@ctvisit-calendar
 DESCRIPTION:Visit three beautiful southeastern Connecticut vineyards in on
  e unforgettable day. If you're visiting Mystic\, Connecticut and want to e
@@ -184,7 +148,7 @@ BEGIN:VEVENT
 SUMMARY:Connecticut's Revolution
 DTSTART;VALUE=DATE:20260704
 DTEND;VALUE=DATE:20270710
-DTSTAMP:20261124T205933Z
+DTSTAMP:20261125T202154Z
 UID:3c870322b2c192cd3affdf7d2330@ctvisit-calendar
 DESCRIPTION:The Museum of Connecticut History at the Connecticut State Lib
  rary announces a new exhibit commemorating the nation’s 250th anniversar
@@ -194,27 +158,10 @@ LOCATION:Museum of Connecticut History at the Connecticut State Library\,
 URL:https://ctvisit.com/events/connecticuts-revolution
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:JIBBOOM Club #1
-DTSTART;VALUE=DATE:20260721
-DTEND;VALUE=DATE:20261216
-DTSTAMP:20261124T205933Z
-UID:e8342fcee380cc1515c66d1b17b8@ctvisit-calendar
-DESCRIPTION:Jibboom is not a club—it's a welcoming gathering for anyone 
- who enjoys Connecticut's rich maritime heritage. Join us on the third Tues
- day of each month\, now through December\, at 1:30 p.m. for an engaging pr
- esentation by a maritime speaker\, followed by light refreshments and frie
- ndly conversation. Bring a friend and discover something new. Admission is
-  free\, thanks to the generous sponsorship of Rose & Joe Maco.\n\nSource: 
- https://ctvisit.com/events/jibboom-club-1
-LOCATION:Custom House Maritime Museum\, Custom House Maritime Museum\, 150
-  Bank Street\, New London CT\, 06320
-URL:https://ctvisit.com/events/jibboom-club-1
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Open Mic at the Custom House Maritime Museum
 DTSTART;VALUE=DATE:20260726
 DTEND;VALUE=DATE:20261228
-DTSTAMP:20261124T205933Z
+DTSTAMP:20261125T202154Z
 UID:0d87efb1ef8bf41cf100a558adc3@ctvisit-calendar
 DESCRIPTION:Come for the creativity\, stay for the camaraderie. Our monthl
  y Open Mic is all about good vibes and real connection. Hosted by Kenny 'D
@@ -232,7 +179,7 @@ BEGIN:VEVENT
 SUMMARY:Fashioning America: 250 Years of Greenwich Style
 DTSTART;VALUE=DATE:20260805
 DTEND;VALUE=DATE:20270111
-DTSTAMP:20261124T205933Z
+DTSTAMP:20261125T202154Z
 UID:0bf32255b521fb9c49ace966b884@ctvisit-calendar
 DESCRIPTION:Greenwich Historical Society presents the third and final exhi
  bition in the series celebrating America’s 250th—Fashioning America: 2
@@ -252,7 +199,7 @@ BEGIN:VEVENT
 SUMMARY:Fall Riding Programs
 DTSTART;VALUE=DATE:20260903
 DTEND;VALUE=DATE:20261218
-DTSTAMP:20261124T205933Z
+DTSTAMP:20261125T202154Z
 UID:3a0f441c01737619bb80b1ba710b@ctvisit-calendar
 DESCRIPTION:Experience the thrill of horseback riding at our beautiful new
   facility in Woodbury\, CT! Our Fall Riding Programs offer fun\, friendly 
@@ -270,7 +217,7 @@ BEGIN:VEVENT
 SUMMARY:Materials Studio
 DTSTART;VALUE=DATE:20260908
 DTEND;VALUE=DATE:20270527
-DTSTAMP:20261124T205933Z
+DTSTAMP:20261125T202154Z
 UID:237d1f7520e3a9fdc20649a4e21c@ctvisit-calendar
 DESCRIPTION:Families are invited to play\, build\, deconstruct\, reimagine
  \, and discover the life cycle of everyday materials in our built environm
@@ -283,29 +230,68 @@ LOCATION:Grace Farms\, Grace Farms\, 365 Lukes Wood Road\, New Canaan CT\,
 URL:https://ctvisit.com/events/materials-studio
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Exhibition: Stars & Stripes - The American Flag from 9/11 to 250
-DTSTART;VALUE=DATE:20260912
-DTEND;VALUE=DATE:20261206
-DTSTAMP:20261124T205933Z
-UID:2dee3dd24987876baebf5ed4155e@ctvisit-calendar
-DESCRIPTION:2026 marks the momentous occasion of the United States celebra
- ting 250 years as a nation\, and also marks 25 years since the 9/11 terror
- ist attacks. This September\, Slater Memorial Museum of Norwich Free Acade
- my brings to life a display of memories as captured by artist and author R
- obert Carley. Carley’s documentation of post-9/11 America showcases vivi
- d and meaningful images of the American flag across the country\, expresse
- d in dozens of different forms.\n\nSource: https://ctvisit.com/events/exhi
- bition-stars-stripes-american-flag-911-250
-LOCATION:Converse Gallery\, Slater Memorial Museum\, 108 Crescent Street\,
-  Norwich CT\, 06360
-URL:https://ctvisit.com/events/exhibition-stars-stripes-american-flag-911-
- 250
+SUMMARY:Hieroglyphs to Hype: The Modern Afterlife of Ancient Egypt
+DTSTART;VALUE=DATE:20260918
+DTEND;VALUE=DATE:20261213
+DTSTAMP:20261125T202154Z
+UID:11204f08b00e7472a22ffdd9779c@ctvisit-calendar
+DESCRIPTION:Hieroglyphs to Hype: The Modern Afterlife of Ancient Egypt wil
+ l explore the enduring fascination with ancient Egyptian art and culture (
+ dubbed “Egyptomania” by 19th-century Europeans) through a selection of
+  paintings\, prints\, photographs\, and decorative art ranging from the ea
+ rly 19th century through the present day. These objects\, from the humble 
+ to the refined\, from the shamelessly commercial to the Afrofuturist\, rep
+ resent the range of artistic responses to – and misconceptions about –
+  ancient Egyptian visual culture.\n\nSource: https://ctvisit.com/events/hi
+ eroglyphs-hype-modern-afterlife-ancient-egypt
+LOCATION:Bellarmine Hall\, Bellarmine Hall Galleries\, 1073 N. Benson Road
+ \, Fairfield CT\, 06824-3826
+URL:https://ctvisit.com/events/hieroglyphs-hype-modern-afterlife-ancient-e
+ gypt
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Hieroglyphs to Hype: The Modern Afterlife of Ancient Egypt
+DTSTART;VALUE=DATE:20260918
+DTEND;VALUE=DATE:20261213
+DTSTAMP:20261125T202154Z
+UID:4cee5dc74f5005488862f3d393cf@ctvisit-calendar
+DESCRIPTION:This exhibition will explore the enduring fascination with anc
+ ient Egyptian art and culture (dubbed “Egyptomania” by 19th-century Eu
+ ropeans) through a selection of paintings\, prints\, photographs\, and dec
+ orative art ranging from the early 19th century through the present day. T
+ hese objects\, from the humble to the refined\, from the shamelessly comme
+ rcial to the Afrofuturist\, represent the range of artistic responses to 
+ – and misconceptions about – ancient Egyptian visual culture.\n\nSourc
+ e: https://ctvisit.com/events/hieroglyphs-hype-modern-afterlife-ancient-eg
+ ypt-0
+LOCATION:Bellarmine Hall Galleries\, 1073 North Benson Road\, Fairfield CT
+ \, 06824
+URL:https://ctvisit.com/events/hieroglyphs-hype-modern-afterlife-ancient-e
+ gypt-0
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:James Welling: Cento
+DTSTART;VALUE=DATE:20260925
+DTEND;VALUE=DATE:20261213
+DTSTAMP:20261125T202154Z
+UID:7339357a303a56796091545c0b6c@ctvisit-calendar
+DESCRIPTION:This exhibition focuses on more than 60 recent works by photog
+ rapher James Welling (American\, born 1951). From the artist’s Cento and
+  Personae series\, these photographs of ancient sites in Italy and Greece
+ \, as well as antiquities found in museums around the world\, were subject
+ ed to digital and painterly alteration by the artist to achieve transforma
+ tive effects. The photographs will be exhibited alongside a selection from
+  the Museum’s extensive historic plaster cast collection of Greek and Ro
+ man sculpture.\n\nSource: https://ctvisit.com/events/james-welling-cento
+LOCATION:Quick Center for the Arts\, Walsh Gallery\, 1073 N. Benson Road\,
+  Bellarmine Hall - Art Museum\, Fairfield CT\, 06824-3826
+URL:https://ctvisit.com/events/james-welling-cento
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:GLOW Wild Lantern Festival
 DTSTART;VALUE=DATE:20261001
 DTEND;VALUE=DATE:20261221
-DTSTAMP:20261124T205933Z
+DTSTAMP:20261125T202154Z
 UID:3f4a557baa0e216067c65ea27a6a@ctvisit-calendar
 DESCRIPTION:Held Thursday through Sunday 5:30 pm - 9:30 pm now through Dec
  ember 20th\, GLOW Wild invites guests to stroll through glowing pathways s
@@ -319,47 +305,62 @@ LOCATION:Connecticut's Beardsley Zoo\, 1875 Noble Ave\, Bridgeport CT\, 06
 URL:https://ctvisit.com/events/glow-wild-lantern-festival-0
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Echoes of the Circle: The Eastern Community Mandala
-DTSTART;VALUE=DATE:20261002
-DTEND;VALUE=DATE:20261205
-DTSTAMP:20261124T205933Z
-UID:1289022af7affcaa440bbfcda44b@ctvisit-calendar
-DESCRIPTION:"Echoes of the Circle: The Eastern Community Mandala" is a col
- laborative exhibition exploring the circle as a visual form and metaphor f
- or connection\, ritual\, repetition\, and everyday life. Featuring artwork
- s and handcrafted objects by members of the Eastern community\, the exhibi
- tion invites reflection on the cycles\, practices\, and gestures that crea
- te rhythm\, meaning\, memory\, and connection in our lives.\n\nSource: htt
- ps://ctvisit.com/events/echoes-circle-eastern-community-mandala
-LOCATION:Fine Arts Instructional Center\, Art Gallery\, 83 Windham Street
- \, Willimantic CT\, 06226
-URL:https://ctvisit.com/events/echoes-circle-eastern-community-mandala
+SUMMARY:Grace Farms Tour
+DTSTART;VALUE=DATE:20261003
+DTEND;VALUE=DATE:20270530
+DTSTAMP:20261125T202154Z
+UID:0f6a9dcf314d434372439046c675@ctvisit-calendar
+DESCRIPTION:This comprehensive tour invites a closer look at the architect
+ ure of the River building and Barns. Take in 360–degree views of the sur
+ rounding landscapes while exploring the building’s sustainable design\, 
+ curated interiors\, and materials choices. During the tour\, sample a cup 
+ of tea from Grace Farms Tea & Coffee\, a Certified B Corp that demonstrate
+ s and educates about ethical and sustainable supply chains.\n\nSource: htt
+ ps://ctvisit.com/events/grace-farms-tour-11
+LOCATION:Grace Farms\, Grace Farms\, 365 Lukes Wood Road\, New Canaan CT\,
+  06840
+URL:https://ctvisit.com/events/grace-farms-tour-11
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Exhibition - A Drop of Water in the Comprehensive Ocean: works on 
- paper by Martha Willette Lewis
-DTSTART;VALUE=DATE:20261005
-DTEND;VALUE=DATE:20261219
-DTSTAMP:20261124T205933Z
-UID:32529f66909810b751e5dbd8d01a@ctvisit-calendar
-DESCRIPTION:Martha Willette Lewis contemplates the physically manifesting 
- spectre of the climate crisis at hand: the accrual of plastic waste and wh
- at it means for our planet’s ecosystems. A number of drawings from her s
- eries\, Marley’s Ghost\, will be on view at The Gallery at Still River E
- ditions from October 3 through December 18\, 2026 as part of the exhibitio
- n A Drop of Water in the Comprehensive Ocean: works on paper by Martha Wil
- lette Lewis.\n\nSource: https://ctvisit.com/events/exhibition-drop-water-c
- omprehensive-ocean-works-paper-martha-willette-lewis
-LOCATION:The Gallery at Still River Editions\, 128 East Liberty St\, Danbu
- ry CT\, 06484
-URL:https://ctvisit.com/events/exhibition-drop-water-comprehensive-ocean-w
- orks-paper-martha-willette-lewis
+SUMMARY:Ian McKeever: Going Forth\, Painted Panels & Other Works
+DTSTART;VALUE=DATE:20261010
+DTEND;VALUE=DATE:20261206
+DTSTAMP:20261125T202154Z
+UID:e5c78db3680f10d41745daf5f176@ctvisit-calendar
+DESCRIPTION:Heather Gaudio Fine Art is pleased to present Ian McKeever: Go
+ ing Forth\, Painted Panels & Other Works\, the artist’s third solo exhib
+ ition at the gallery. The show will open with an artist reception on Octob
+ er 10\, 4-6pm\, and runs through December 5th.\n\nSource: https://ctvisit.
+ com/events/ian-mckeever-going-forth-painted-panels-other-works
+LOCATION:Heather Gaudio Fine Art\, 382 Greenwich Avenue\, Greenwich CT\, 0
+ 6830
+URL:https://ctvisit.com/events/ian-mckeever-going-forth-painted-panels-oth
+ er-works
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:American Stories from Sargent to O'Keeffe: A Partnership with the 
+ Newark Museum of Art
+DTSTART;VALUE=DATE:20261015
+DTEND;VALUE=DATE:20271011
+DTSTAMP:20261125T202154Z
+UID:19b60092199f6fca136ac78b7122@ctvisit-calendar
+DESCRIPTION:American Stories from Sargent to O’Keeffe brings forty-five 
+ masterworks of American art to Greenwich and the region through an extraor
+ dinary partnership with The Newark Museum of Art. Newark’s American art 
+ collection ranks among the finest in the nation\, with exceptional holding
+ s spanning from the colonial period and Hudson River School to the present
+  day. Audiences will experience iconic paintings including Georgia O’Kee
+ ffe’s White Flower on Red Earth\, No.\n\nSource: https://ctvisit.com/eve
+ nts/american-stories-sargent-okeeffe-partnership-newark-museum-art
+LOCATION:The Bruce Museum\, 1 Museum Drive\, Greenwich CT\, 06860
+URL:https://ctvisit.com/events/american-stories-sargent-okeeffe-partnershi
+ p-newark-museum-art
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Annie
 DTSTART;VALUE=DATE:20261030
 DTEND;VALUE=DATE:20261228
-DTSTAMP:20261124T205933Z
+DTSTAMP:20261125T202154Z
 UID:ed2616def2bfcf8b4712bcac14c6@ctvisit-calendar
 DESCRIPTION:Leapin' Lizards! The musical that stole America’s heart come
  s home to celebrate its 50th anniversary on the stage where it all began! 
@@ -376,7 +377,7 @@ BEGIN:VEVENT
 SUMMARY:The Hepburn Women: A Special Exhibit
 DTSTART;VALUE=DATE:20261030
 DTEND;VALUE=DATE:20270130
-DTSTAMP:20261124T205933Z
+DTSTAMP:20261125T202154Z
 UID:02edc57db2d9a2dc623955b50c6a@ctvisit-calendar
 DESCRIPTION:Katharine Hepburn was not an island\, but was one in a line of
   unique and powerful women. In this exhibit\, we widen the spotlight to en
@@ -395,7 +396,7 @@ BEGIN:VEVENT
 SUMMARY:Flanders Artisan Holiday Marketplace
 DTSTART;VALUE=DATE:20261107
 DTEND;VALUE=DATE:20261224
-DTSTAMP:20261124T205933Z
+DTSTAMP:20261125T202154Z
 UID:31994bff109d2a1932e4c2a82f65@ctvisit-calendar
 DESCRIPTION:Start your holiday shopping at the Flanders Holiday Artisan Ma
  rketplace\, opening Saturday\, November 7\, at the historic Van Vleck Hous
@@ -411,7 +412,7 @@ BEGIN:VEVENT
 SUMMARY:Amélie
 DTSTART;VALUE=DATE:20261113
 DTEND;VALUE=DATE:20261206
-DTSTAMP:20261124T205933Z
+DTSTAMP:20261125T202154Z
 UID:ff26008057116ba459ad31ab0438@ctvisit-calendar
 DESCRIPTION:Amélie Book by Craig LucasMusic by Daniel MesséLyrics by Nat
  han Tysen & Daniel Messé Based on the motion picture Amélie written by J
@@ -427,7 +428,7 @@ SUMMARY:Deck the Walls ~ And Celebrate the Holidays at Lyme Art Associatio
  n
 DTSTART;VALUE=DATE:20261113
 DTEND;VALUE=DATE:20270102
-DTSTAMP:20261124T205933Z
+DTSTAMP:20261125T202154Z
 UID:a6348718676c154ce42be0c3de51@ctvisit-calendar
 DESCRIPTION:As Fall turns into Winter\, the Lyme Art Association (LAA) is 
  celebrating the holidays with art\, music and treats. From November 13 –
@@ -446,7 +447,7 @@ BEGIN:VEVENT
 SUMMARY:Guilford Art Center Holiday Expo 2026
 DTSTART;VALUE=DATE:20261113
 DTEND;VALUE=DATE:20270111
-DTSTAMP:20261124T205933Z
+DTSTAMP:20261125T202154Z
 UID:6a0ffc99c6116b289bc799ad1c81@ctvisit-calendar
 DESCRIPTION:Guilford Art Center’s Holiday Expo Brings 175+ Artists and M
  akers Together for an Indoor Holiday Market Get a head start on holiday sh
@@ -463,7 +464,7 @@ BEGIN:VEVENT
 SUMMARY:Gallery Holiday Sale
 DTSTART;VALUE=DATE:20261115
 DTEND;VALUE=DATE:20270104
-DTSTAMP:20261124T205933Z
+DTSTAMP:20261125T202154Z
 UID:9e82c1964c00ab0d283cdb061cec@ctvisit-calendar
 DESCRIPTION:Gallery HOLIDAY SaleDiscover the beauty of handmade art. Start
  ing Sunday\, November 15th 2026Come in any time we're open to see our gall
@@ -474,26 +475,29 @@ LOCATION:Village Center for the Arts\, 12 Main Street\, New Milford CT\, 0
 URL:https://ctvisit.com/events/gallery-holiday-sale
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:33rd Train Show at Connecticut River Musem
-DTSTART;VALUE=DATE:20261119
-DTEND;VALUE=DATE:20270119
-DTSTAMP:20261124T205933Z
-UID:ab79cca0033cce7658a348132eb9@ctvisit-calendar
-DESCRIPTION:The Connecticut River Museum is bringing a beloved holiday tra
- dition back for the 33rd year\, transforming its third floor into an impre
- ssive train show. Each year\, Steve Cryan diligently creates a nearly 30-f
- oot HO-scale layout inspired by the Connecticut River. The detailed setup 
- includes multiple running trains\, dozens of buildings\, and numerous boat
- s.\n\nSource: https://ctvisit.com/events/33rd-train-show-connecticut-river
- -musem
-LOCATION:Connecticut River Museum\, 67 Main Street\, Essex CT\, 06426
-URL:https://ctvisit.com/events/33rd-train-show-connecticut-river-musem
+SUMMARY:Holiday Tours of the Bush-Holley House
+DTSTART;VALUE=DATE:20261117
+DTEND;VALUE=DATE:20270111
+DTSTAMP:20261125T202154Z
+UID:ceb34ccac023e3e8e7604fe366c7@ctvisit-calendar
+DESCRIPTION:Celebrate the holiday season at the Greenwich Historical Socie
+ ty! Visit our newly arranged period rooms and explore the holidays celebra
+ ted in the 18th century. Guests will tour the first floor of Bush-Holley H
+ ouse\, festively decorated for the 1780s. See how the Dutch English Bush f
+ amily welcomed family and friends for a traditional New England Thanksgivi
+ ng\; celebrated the arrival of St. Nicholas\, the precursor of Santa Claus
+ \, with gifts and treats for the children\; and marked the last night of t
+ he Christmas holiday season with a feast on Twelfth Night.\n\nSource: http
+ s://ctvisit.com/events/holiday-tours-bush-holley-house
+LOCATION:Greenwich Historical Society\, 47 Strickland Road\, Cos Cob CT\, 
+ 06807
+URL:https://ctvisit.com/events/holiday-tours-bush-holley-house
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Playhouse Holiday Jamboree
 DTSTART;VALUE=DATE:20261119
 DTEND;VALUE=DATE:20261221
-DTSTAMP:20261124T205933Z
+DTSTAMP:20261125T202154Z
 UID:3cd52ebc2b94d1c5a952db4c37dd@ctvisit-calendar
 DESCRIPTION:By Katie Barton and Ben Hope Continuing the Playhouse traditio
  n\, our own holiday show features festive tunes\, family stories\, some ne
@@ -508,7 +512,7 @@ BEGIN:VEVENT
 SUMMARY:Horse Drawn Carriage Rides
 DTSTART;VALUE=DATE:20261120
 DTEND;VALUE=DATE:20261228
-DTSTAMP:20261124T205933Z
+DTSTAMP:20261125T202154Z
 UID:27644f49292b234aa29c41810150@ctvisit-calendar
 DESCRIPTION:November 20th – December 27th\, 11:00am – 3:00pm. Free Hor
  se Drawn Carriage Rides Beginning the weekend before Thanksgiving (Novembe
@@ -527,7 +531,7 @@ BEGIN:VEVENT
 SUMMARY:TradeMARK'd Exhibit Grand Opening
 DTSTART;VALUE=DATE:20261120
 DTEND;VALUE=DATE:20270101
-DTSTAMP:20261124T205933Z
+DTSTAMP:20261125T202154Z
 UID:682130f08a14f9c97749f6197ce0@ctvisit-calendar
 DESCRIPTION:TradeMARK’d explores how Samuel Clemens became Mark Twain\, 
  and how that identity evolved into something much bigger than the man hims
@@ -545,7 +549,7 @@ BEGIN:VEVENT
 SUMMARY:6th Annual Lobster Trap Tree
 DTSTART;VALUE=DATE:20261121
 DTEND;VALUE=DATE:20270104
-DTSTAMP:20261124T205933Z
+DTSTAMP:20261125T202154Z
 UID:300f446692bf673ecc6946ff94b7@ctvisit-calendar
 DESCRIPTION:On Saturday\, November 21\, come join the unveling of the Fift
  h Annual Lobster Trap Tree at the Stonington Town Docks\, sponsored by the
@@ -563,7 +567,7 @@ BEGIN:VEVENT
 SUMMARY:Christmas on the Rocks '26
 DTSTART;VALUE=DATE:20261124
 DTEND;VALUE=DATE:20261224
-DTSTAMP:20261124T205933Z
+DTSTAMP:20261125T202154Z
 UID:8661bd558fead633a6587d364ae5@ctvisit-calendar
 DESCRIPTION:Connecticut's Favorite Twisted Holday Tradition Returns for Ye
  ar 14! by John Cariani\, Jenn Harris\, Jeffrey Hatcher\, Jacques Lamarre\,
@@ -580,7 +584,7 @@ BEGIN:VEVENT
 SUMMARY:Free Gourmet Hot Cocoa or Two Holiday Churros with Purchase
 DTSTART;VALUE=DATE:20261125
 DTEND;VALUE=DATE:20261225
-DTSTAMP:20261124T205933Z
+DTSTAMP:20261125T202154Z
 UID:6361a50dcfa0d4044d6b04984a7a@ctvisit-calendar
 DESCRIPTION:Make holiday shopping a little sweeter at The Shops at Yale in
   downtown New Haven! From November 25 through December 24\, 2026\, spend $
@@ -597,7 +601,7 @@ SUMMARY:Free Two-Hour Parking with Purchase | 56 Broadway & 255 Crown Stre
  et
 DTSTART;VALUE=DATE:20261125
 DTEND;VALUE=DATE:20261225
-DTSTAMP:20261124T205933Z
+DTSTAMP:20261125T202154Z
 UID:274c3309a7c5888bebff2748a88b@ctvisit-calendar
 DESCRIPTION:Enjoy easier holiday shopping and dining in downtown New Haven
   with complimentary parking from The Shops at Yale. From November 25 throu
@@ -610,54 +614,10 @@ URL:https://ctvisit.com/events/free-two-hour-parking-purchase-56-broadway-
  255-crown-street
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:THANKSGIVING EVE BASH
-DTSTART;VALUE=DATE:20261125
-DTEND;VALUE=DATE:20261126
-DTSTAMP:20261124T205933Z
-UID:210c12d48916de7199341a31ca87@ctvisit-calendar
-DESCRIPTION:Our Biggest Dance Party of The Year! Featuring Performances By
- : * Judah * Robin Fierce (RPDS: S15) * Dro Lopez * Rozz Aura * Lexxi Pro S
- howtime: 11:30pm (ONE PERFORMANCE ONLY) Dance Music ALL NIGHT LONG by DJ M
- ike Nyce >>> TAP FOR MORE EVENT INFO\n\nSource: https://ctvisit.com/events
- /thanksgiving-eve-bash-3
-LOCATION:Chez Est\, 458 Wethersfield Ave.\, Hartford CT\, 06114
-URL:https://ctvisit.com/events/thanksgiving-eve-bash-3
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Thanksgiving Eve Party
-DTSTART;VALUE=DATE:20261125
-DTEND;VALUE=DATE:20261126
-DTSTAMP:20261124T205933Z
-UID:13f3826cb2566467abe6e02094eb@ctvisit-calendar
-DESCRIPTION:Kick off your Thanksgiving weekend at Dockside Brewery! Join u
- s Thanksgiving Eve for a night of great drinks\, good vibes\, and music by
-  our DJ. Gather your friends\, hit the dance floor\, and celebrate the hol
- iday with us!\n\nSource: https://ctvisit.com/events/thanksgiving-eve-party
- -0
-LOCATION:Dockside Brewery\, 40 Bridgeport Avenue\, Milford CT\, 06460
-URL:https://ctvisit.com/events/thanksgiving-eve-party-0
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Thanksgiving Eve: Durham After Dark Acoustic Duo at 1741 Pub & Gri
- ll
-DTSTART;VALUE=DATE:20261125
-DTEND;VALUE=DATE:20261126
-DTSTAMP:20261124T205933Z
-UID:b4b2290eb70d950aea4e3112c1b6@ctvisit-calendar
-DESCRIPTION:Join us on Thanksgiving Eve at 1741 Pub & Grill for live music
-  from a local duo! Wednesday\, November 25th\, come to 1741 Pub & Grill fo
- r live music with Durham After Dark from 6 PM - 9 PM! Catch up with friend
- s and family while listening to great tunes!\n\nSource: https://ctvisit.co
- m/events/thanksgiving-eve-durham-after-dark-acoustic-duo-1741-pub-grill
-LOCATION:72 Lyman Road\, Middlefield CT\, 06455
-URL:https://ctvisit.com/events/thanksgiving-eve-durham-after-dark-acoustic
- -duo-1741-pub-grill
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:49th Goshen Turkey Trot 10K Run/Walk
 DTSTART;VALUE=DATE:20261126
 DTEND;VALUE=DATE:20261127
-DTSTAMP:20261124T205933Z
+DTSTAMP:20261125T202154Z
 UID:a4aff7bfdfd43a97064e3571d57e@ctvisit-calendar
 DESCRIPTION:November 26\, 20269AM Start Rain\, Snow or ShineGoshen Fairgro
  unds116 Old Middle St\, Goshen\, CT 06756 Parking at Goshen Fairgrounds\, 
@@ -670,30 +630,11 @@ LOCATION:Goshen Fairgrounds\, 116 Old Middle St\, Goshen CT\, 06756
 URL:https://ctvisit.com/events/49th-goshen-turkey-trot-10k-runwalk
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Celebrate Thanksgiving at Jacob’s Pickles South Norwalk
-DTSTART;VALUE=DATE:20261126
-DTEND;VALUE=DATE:20261127
-DTSTAMP:20261124T205933Z
-UID:1eae03d2e25c6126ba2ade3cdfb5@ctvisit-calendar
-DESCRIPTION:Celebrate Thanksgiving at Jacob’s Pickles South Norwalk Thur
- sday\, November 26\, 2026 | 1:30–4:30 PM This Thanksgiving\, let Jacob
- ’s Pickles in South Norwalk do the cooking! Known for its hearty portion
- s\, Southern comfort food\, and spirited hospitality\, Jacob’s is servin
- g up their popular festive Thanksgiving feast with all the traditional fav
- orites and a few signature twists. Prefer to celebrate at home? Their Than
- ksgiving To Go menu brings the holiday goodness right to your table. Eithe
- r way\, skip the kitchen duty and dig in!\n\nSource: https://ctvisit.com/e
- vents/celebrate-thanksgiving-jacobs-pickles-south-norwalk
-LOCATION:Jacob's Pickles\, 100 N. Water S\, Norwalk CT\, 06854
-URL:https://ctvisit.com/events/celebrate-thanksgiving-jacobs-pickles-south
- -norwalk
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Rotary Club of Orange Thanksgiving Turkey Trot 5K Run/Walk & 1 Mil
  e Walk
 DTSTART;VALUE=DATE:20261126
 DTEND;VALUE=DATE:20261127
-DTSTAMP:20261124T205933Z
+DTSTAMP:20261125T202154Z
 UID:0c2735de2568623a104c602c716e@ctvisit-calendar
 DESCRIPTION:**Rotary Club of Orange Thanksgiving Turkey Trot 5K Run/Walk &
   1 Mile Walk** **Date:** November 26\, 2026 **Start times:** 5K Start 8:00
@@ -711,7 +652,7 @@ BEGIN:VEVENT
 SUMMARY:Shoreline Turkey Trot 5K
 DTSTART;VALUE=DATE:20261126
 DTEND;VALUE=DATE:20261127
-DTSTAMP:20261124T205933Z
+DTSTAMP:20261125T202154Z
 UID:df5cdd499a0adb6e9a2dbeaf945c@ctvisit-calendar
 DESCRIPTION:8:00 AM start (rain or shine) Location: Savin Rock Conference 
  Center (on the beach side)6 Rock St.West Haven\, CT 06516 Event schedule: 
@@ -725,10 +666,25 @@ LOCATION:Savin Rock Conference Center (on the beach side)\, 6 Rock St.\, W
 URL:https://ctvisit.com/events/shoreline-turkey-trot-5k-1
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Thanksgiving Buffet
+DTSTART;VALUE=DATE:20261126
+DTEND;VALUE=DATE:20261127
+DTSTAMP:20261125T202154Z
+UID:563e5de7a32d5c70db23dc146efc@ctvisit-calendar
+DESCRIPTION:This Thanksgiving\, gather at Water’s Edge for a festive din
+ ing experience by the shore. Delight in a lavish buffet featuring chef-car
+ ved specialties\, seasonal favorites\, and an indulgent dessert spread. Su
+ rrounded by family\, friends\, and coastal charm to celebrate the holiday.
+ \n\nSource: https://ctvisit.com/events/thanksgiving-buffet-6
+LOCATION:Water's Edge Resort & Spa\, 1525 Boston Post Road\, Westbrook CT
+ \, 06498
+URL:https://ctvisit.com/events/thanksgiving-buffet-6
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Thanksgiving Buffet Celebration
 DTSTART;VALUE=DATE:20261126
 DTEND;VALUE=DATE:20261127
-DTSTAMP:20261124T205933Z
+DTSTAMP:20261125T202154Z
 UID:d1d85a762ddf53f32b8cdd49f51e@ctvisit-calendar
 DESCRIPTION:Thanksgiving Buffet CelebrationGather your family and friends 
  and join us for a feast worth giving thanks for!Indulge in a lavish Thanks
@@ -744,7 +700,7 @@ BEGIN:VEVENT
 SUMMARY:Thanksgiving Buffet at Hilton Mystic\, November 26\, 2026
 DTSTART;VALUE=DATE:20261126
 DTEND;VALUE=DATE:20261127
-DTSTAMP:20261124T205933Z
+DTSTAMP:20261125T202154Z
 UID:a6ea5c19c8de7a18e226dae6202f@ctvisit-calendar
 DESCRIPTION:Save the date for our annual Thanksgiving Buffet at Hilton Mys
  tic Seatings at 12:30 p.m.\, 1 p.m. 1:30 p.m.\, 2 p.m. and 2:30 p.m. Cost:
@@ -762,7 +718,7 @@ BEGIN:VEVENT
 SUMMARY:18th Annual Greenwich Reindeer Festival & Santa’s Workshop
 DTSTART;VALUE=DATE:20261127
 DTEND;VALUE=DATE:20261225
-DTSTAMP:20261124T205933Z
+DTSTAMP:20261125T202154Z
 UID:e1299846155dbadfe3acafe3dd53@ctvisit-calendar
 DESCRIPTION:18th Annual Greenwich Reindeer Festival & Santa’s Workshop p
  resented by Jenny Allen & Kristen Studwell\, Compass Real Estate at Sam Br
@@ -778,7 +734,7 @@ BEGIN:VEVENT
 SUMMARY:A Christmas Carol
 DTSTART;VALUE=DATE:20261127
 DTEND;VALUE=DATE:20261220
-DTSTAMP:20261124T205933Z
+DTSTAMP:20261125T202154Z
 UID:ef5a08b9a7eb973d2a1e7e6eb42f@ctvisit-calendar
 DESCRIPTION:Enjoy live theater at Russell Library! Russell Library is very
   excited to announce the return of A Christmas Carol. This well-loved show
@@ -791,7 +747,7 @@ BEGIN:VEVENT
 SUMMARY:Black Friday Bash at Dockside
 DTSTART;VALUE=DATE:20261127
 DTEND;VALUE=DATE:20261128
-DTSTAMP:20261124T205933Z
+DTSTAMP:20261125T202154Z
 UID:d466ef686d97514891b39578d94d@ctvisit-calendar
 DESCRIPTION:Keep the holiday weekend going at Dockside Brewery with our Bl
  ack Friday Bash featuring DJ Boofset! Join us for great drinks\, good vibe
@@ -805,7 +761,7 @@ BEGIN:VEVENT
 SUMMARY:Black Friday Concert ft. Savage Pianos – Dueling Pianos
 DTSTART;VALUE=DATE:20261127
 DTEND;VALUE=DATE:20261128
-DTSTAMP:20261124T205933Z
+DTSTAMP:20261125T202154Z
 UID:17b1fedd0c1f09c9754b0766a7a1@ctvisit-calendar
 DESCRIPTION:Back by Popular Demand Join us for a fantastic evening of duel
  ing pianos featuring the talent from Savage Pianos. The audience creates t
@@ -822,7 +778,7 @@ BEGIN:VEVENT
 SUMMARY:CABARET - Directed by Adam Pascal
 DTSTART;VALUE=DATE:20261127
 DTEND;VALUE=DATE:20261221
-DTSTAMP:20261124T205933Z
+DTSTAMP:20261125T202154Z
 UID:88cbcf7f0f355b8b46df09c8ce51@ctvisit-calendar
 DESCRIPTION:Come closer. Step inside the Kit Kat Club for the 60th anniver
  sary of Cabaret\, presented by The Press Box Theater in association with B
@@ -840,7 +796,7 @@ BEGIN:VEVENT
 SUMMARY:Christmas Shoppe at the Historic Merwinsville Hotel
 DTSTART;VALUE=DATE:20261127
 DTEND;VALUE=DATE:20261207
-DTSTAMP:20261124T205933Z
+DTSTAMP:20261125T202154Z
 UID:36dc6be55c5ef2311a6bff99c631@ctvisit-calendar
 DESCRIPTION:Holidays come alive at Merwinsville Hotel’s 2 weekend show S
  eeing the wonder on a child’s face as a model train makes its way throug
@@ -859,7 +815,7 @@ BEGIN:VEVENT
 SUMMARY:Comedy at the Edge
 DTSTART;VALUE=DATE:20261127
 DTEND;VALUE=DATE:20261128
-DTSTAMP:20261124T205933Z
+DTSTAMP:20261125T202154Z
 UID:2709d979bbadd8baf9fe5a06f3f8@ctvisit-calendar
 DESCRIPTION:Enjoy a Night of Laughs at Water’s Edge performed by a trio 
  of Comedians from Comedy Craft Beer. This is a 21+ EventCash Bar Available
@@ -874,7 +830,7 @@ BEGIN:VEVENT
 SUMMARY:Downtown New London Tree Lighting
 DTSTART;VALUE=DATE:20261127
 DTEND;VALUE=DATE:20261128
-DTSTAMP:20261124T205933Z
+DTSTAMP:20261125T202154Z
 UID:d271a55ea6efd2e8177221170e76@ctvisit-calendar
 DESCRIPTION:Everyone is invited to downtown New London to kick off the hol
  iday season by celebrating the annual Tree Lighting Ceremony and Santa’s
@@ -893,7 +849,7 @@ BEGIN:VEVENT
 SUMMARY:Live Music with Nick Fradiani Sr
 DTSTART;VALUE=DATE:20261127
 DTEND;VALUE=DATE:20261128
-DTSTAMP:20261124T205933Z
+DTSTAMP:20261125T202154Z
 UID:a29d3577e3487a4610bb7f449b82@ctvisit-calendar
 DESCRIPTION:Seating is first come first serve! Live music is indoors. No r
  eservations needed.\n\nSource: https://ctvisit.com/events/live-music-nick-
@@ -903,10 +859,29 @@ LOCATION:Paradise Hills Vineyard and Winery\, 15 Windswept Hill Road\, Wal
 URL:https://ctvisit.com/events/live-music-nick-fradiani-sr-15
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Max Creek
+DTSTART;VALUE=DATE:20261127
+DTEND;VALUE=DATE:20261128
+DTSTAMP:20261125T202154Z
+UID:37481973b9ad76f225bde7829e80@ctvisit-calendar
+DESCRIPTION:Max Creek was formed in 1972 as quartet with\, believe it or n
+ ot\, an accordion player\, and went to a trio almost immediately – guita
+ r – Dave Reed\, fellow Hartt School student bass- John Rider\, and drumm
+ er Bob Gosselin. Their first big show was at Arlo Guthrie’s Mapleview Ba
+ llroom in Washington\, MA (later to become “Woody’s”) and they settl
+ ed into a steady series of shows at the “Rocking Horse” in Hartford at
+  a time when the social consciousness scene was taking hold pretty much ev
+ erywhere\, and Woodstock was fresh in everyone’s minds.\n\nSource: https
+ ://ctvisit.com/events/max-creek-4
+LOCATION:Infinity Music Hall - Norfolk\, 20 Greenwoods Rd W\, Norfolk CT\,
+  06058
+URL:https://ctvisit.com/events/max-creek-4
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Mullett
 DTSTART;VALUE=DATE:20261127
 DTEND;VALUE=DATE:20261128
-DTSTAMP:20261124T205933Z
+DTSTAMP:20261125T202154Z
 UID:16934bbb23792e14ed47a91db76a@ctvisit-calendar
 DESCRIPTION:For over a decade now\, Mullett has proven themselves time and
   time again to be THE Premier Rockers for Hair Band fanatics and lovers of
@@ -924,7 +899,7 @@ BEGIN:VEVENT
 SUMMARY:Natalie Cuomo
 DTSTART;VALUE=DATE:20261127
 DTEND;VALUE=DATE:20261128
-DTSTAMP:20261124T205933Z
+DTSTAMP:20261125T202154Z
 UID:7b9e4bc9bd15816bbf19982fd353@ctvisit-calendar
 DESCRIPTION:Natalie Cuomo hits Bridgeport NEXT WEEK. She's like the kind o
  f person your parents would’ve warned you about… which is probably why
@@ -938,7 +913,7 @@ BEGIN:VEVENT
 SUMMARY:Natalie Cuomo 11/27 @ 9PM
 DTSTART;VALUE=DATE:20261127
 DTEND;VALUE=DATE:20261128
-DTSTAMP:20261124T205933Z
+DTSTAMP:20261125T202154Z
 UID:7c17fd4dfaf42fc50e69156d971b@ctvisit-calendar
 DESCRIPTION:Natalie Cuomo hits Bridgeport NEXT WEEKShe's like the kind of 
  person your parents would’ve warned you about… which is probably why s
@@ -952,7 +927,7 @@ BEGIN:VEVENT
 SUMMARY:Powder Ridge Winter Festival
 DTSTART;VALUE=DATE:20261127
 DTEND;VALUE=DATE:20261221
-DTSTAMP:20261124T205933Z
+DTSTAMP:20261125T202154Z
 UID:3846fe7f5ea5196a22eafd20abaa@ctvisit-calendar
 DESCRIPTION:Winterfest at Powder Ridge! ❄️ GUARANTEED SNOW! ❄️ Mak
  e Powder Ridge your holiday destination! Winterfest transforms the mountai
@@ -966,7 +941,7 @@ BEGIN:VEVENT
 SUMMARY:Wesleyan Potters 71st Annual Sale: Spotlight on the Arts
 DTSTART;VALUE=DATE:20261127
 DTEND;VALUE=DATE:20261225
-DTSTAMP:20261124T205933Z
+DTSTAMP:20261125T202154Z
 UID:a3d947cd45e7b9e96f7c0e2cd4bf@ctvisit-calendar
 DESCRIPTION:Wesleyan Potters Puts Handmade Craft in the Spotlight at its 7
  1st Annual Sale “Spotlight on the Arts” runs November 27–December 24
@@ -984,7 +959,7 @@ BEGIN:VEVENT
 SUMMARY:A Moment Between the Holidays: Sound Meditation
 DTSTART;VALUE=DATE:20261128
 DTEND;VALUE=DATE:20261129
-DTSTAMP:20261124T205933Z
+DTSTAMP:20261125T202154Z
 UID:59586ec2d1f6a2ed0b1e93fbd17d@ctvisit-calendar
 DESCRIPTION:Thanksgiving has passed\, and the holiday season is just begin
  ning. Between family gatherings\, busy schedules\, and the anticipation of
@@ -1002,7 +977,7 @@ BEGIN:VEVENT
 SUMMARY:Friends of Ambler Farm’s Annual Holiday Greens Sale
 DTSTART;VALUE=DATE:20261128
 DTEND;VALUE=DATE:20261207
-DTSTAMP:20261124T205933Z
+DTSTAMP:20261125T202154Z
 UID:1e4536ce57ab97a39f17b42f52f5@ctvisit-calendar
 DESCRIPTION:A Wilton Tradition : The Ambler Farm Greens Sale is a beloved 
  holiday event for somany families. Begin your holiday season by meeting yo
@@ -1020,7 +995,7 @@ BEGIN:VEVENT
 SUMMARY:Jessica Lynn's A Very Merry Classic Christmas
 DTSTART;VALUE=DATE:20261128
 DTEND;VALUE=DATE:20261129
-DTSTAMP:20261124T205933Z
+DTSTAMP:20261125T202154Z
 UID:166eb05756f5f91e65d0abcb86b4@ctvisit-calendar
 DESCRIPTION:Jessica Lynn’s – A Very Merry Classic Christmas is celebra
  ting 10 years of being one of the season’s most beloved holiday traditio
@@ -1032,10 +1007,24 @@ URL:https://ctvisit.com/events/jessica-lynns-very-merry-classic-christmas-
  1
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Live Music with Myke Ross
+DTSTART;VALUE=DATE:20261129
+DTEND;VALUE=DATE:20261130
+DTSTAMP:20261125T202154Z
+UID:b95429d7384a653f58c7dfe339d6@ctvisit-calendar
+DESCRIPTION:Come on over and join us at Paradise Hills Vineyard for some l
+ ive music. Seating is first come first serve! Live music is indoors. No re
+ servations needed.\n\nSource: https://ctvisit.com/events/live-music-myke-r
+ oss-14
+LOCATION:Paradise Hills Vineyard and Winery\, 15 Windswept Hill Road\, Wal
+ lingford CT\, 06492
+URL:https://ctvisit.com/events/live-music-myke-ross-14
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Sip & Stroll
 DTSTART;VALUE=DATE:20261203
 DTEND;VALUE=DATE:20261204
-DTSTAMP:20261124T205933Z
+DTSTAMP:20261125T202154Z
 UID:2df230c43fc72aed46ebd15450d0@ctvisit-calendar
 DESCRIPTION:The sights and sounds of the season are coming to Quarry Walk!
   Join us for Quarry Walk’s Annual Sip & Stroll on Thursday\, December 3
@@ -1053,7 +1042,7 @@ BEGIN:VEVENT
 SUMMARY:Levitate Sound Meditation
 DTSTART;VALUE=DATE:20261204
 DTEND;VALUE=DATE:20261205
-DTSTAMP:20261124T205933Z
+DTSTAMP:20261125T202154Z
 UID:453d9484b6bda796a42cfacb8dcd@ctvisit-calendar
 DESCRIPTION:Levitate Sound Immersion Experience will take us on a meditati
  ve journey through the nature of body\, mind\, and spirit. Giant gongs\, s
@@ -1070,7 +1059,7 @@ BEGIN:VEVENT
 SUMMARY:Fantasy Forest at Oliver Ellsworth Homestead
 DTSTART;VALUE=DATE:20261205
 DTEND;VALUE=DATE:20261206
-DTSTAMP:20261124T205933Z
+DTSTAMP:20261125T202154Z
 UID:7f70355b4530a4fd02da6e5e2dff@ctvisit-calendar
 DESCRIPTION:Step into the magic of the season! Tour the beautifully decora
  ted historic homestead\, shop festive trees\, wreaths\, and crafts.\n\nSou
@@ -1083,7 +1072,7 @@ BEGIN:VEVENT
 SUMMARY:Magician John Westford
 DTSTART;VALUE=DATE:20261205
 DTEND;VALUE=DATE:20261206
-DTSTAMP:20261124T205933Z
+DTSTAMP:20261125T202154Z
 UID:2d771e888703f3e2508aa998c109@ctvisit-calendar
 DESCRIPTION:JOHN WESTFORD John Westford is an American illusionist\, maste
  r magician and actor who has dazzled audiences in theaters nationwide\, on
@@ -1100,7 +1089,7 @@ BEGIN:VEVENT
 SUMMARY:Candlelight Yoga With Pilin Anice
 DTSTART;VALUE=DATE:20261209
 DTEND;VALUE=DATE:20261210
-DTSTAMP:20261124T205933Z
+DTSTAMP:20261125T202154Z
 UID:772027c490bacf8336831f84b33f@ctvisit-calendar
 DESCRIPTION:Experience movement and music in the light-filled Court with r
  enowned mindfulness and wellness expert\, Pilin Anice. This special candle
@@ -1118,7 +1107,7 @@ BEGIN:VEVENT
 SUMMARY:WüF - THE HOLIDAY BALL
 DTSTART;VALUE=DATE:20261211
 DTEND;VALUE=DATE:20261212
-DTSTAMP:20261124T205933Z
+DTSTAMP:20261125T202154Z
 UID:6d8bda6b4ef1887c0fdcea9317f7@ctvisit-calendar
 DESCRIPTION:The biggest Men's dance party & social in central CT! A night 
  of smiles\, dancing and masculine camaraderie you DON'T want to miss! Cate
@@ -1133,7 +1122,7 @@ BEGIN:VEVENT
 SUMMARY:CTGMC: Fruitcake
 DTSTART;VALUE=DATE:20261212
 DTEND;VALUE=DATE:20261213
-DTSTAMP:20261124T205933Z
+DTSTAMP:20261125T202154Z
 UID:eb028589b1a0cdf8ff52a170e7f9@ctvisit-calendar
 DESCRIPTION:CT Gay Men's Chorus\n\nSource: https://ctvisit.com/events/ctgm
  c-fruitcake
@@ -1145,12 +1134,27 @@ BEGIN:VEVENT
 SUMMARY:CTGMC: Fruitcake
 DTSTART;VALUE=DATE:20261213
 DTEND;VALUE=DATE:20261214
-DTSTAMP:20261124T205933Z
+DTSTAMP:20261125T202154Z
 UID:10defb5e8ccc75d8ec674c320cf1@ctvisit-calendar
 DESCRIPTION:CT Gay Men's Chorus\n\nSource: https://ctvisit.com/events/ctgm
  c-fruitcake-0
 LOCATION:Katharine Hepburn Cultural Arts Center\, 300 Main Street\, Old Sa
  ybrook CT\, 06472
 URL:https://ctvisit.com/events/ctgmc-fruitcake-0
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:NEW YEAR'S EVE - Featuring Crystal Methyd
+DTSTART;VALUE=DATE:20261231
+DTEND;VALUE=DATE:20270101
+DTSTAMP:20261125T202154Z
+UID:b1abb2d0462d766a78153ce3c314@ctvisit-calendar
+DESCRIPTION:NEW YEAR'S EVE - Featuring Crystal Methyd WINNER of RuPaul's D
+ rag Race All Stars 11 Presented By The Chez Est Featuring Performances By:
+  * Crystal Methyd * Angel Rivers (Mx Chez Est 2026) * Felicity V. Lay * En
+ igma Jones * Angelina Fierce Showtimes: 12:30am & 1:30am (The Chez will be
+  open until 3AM!)\n\nSource: https://ctvisit.com/events/new-years-eve-feat
+ uring-crystal-methyd
+LOCATION:Chez Est\, 458 Wethersfield Ave.\, Hartford CT\, 06114
+URL:https://ctvisit.com/events/new-years-eve-featuring-crystal-methyd
 END:VEVENT
 END:VCALENDAR
